@@ -1,0 +1,8 @@
+{
+    "monitoring_cycle": 3600,
+    "base_url" : "https://www.footlocker.co.uk",
+    "homepage_url" : "https://www.footlocker.co.uk/en/homepage",
+    "calendar_url" : "https://www.footlocker.co.uk/en/content/release_calendar",
+    "webhooks_url" : "https://discordapp.com/api/webhooks/611814905145720833/Im_yggi5bU4rJfm3Ft3iERXyR_EUEgtjYh_nXGJH-xn6bdjmgdHMF8nER0QNksuqloTM",
+    "calendar_feed_json" : "https://www.footlocker.co.uk/INTERSHOP/static/WFS/Footlocker-Site/-/Footlocker/en_US/Release-Calendar/Launchcalendar/launchdata/launchcalendar_feed_all.json"
+}

@@ -1,0 +1,9 @@
+[01-28-2020 05:47:11] 	 Add to post AutoReconnect('localhost:27017: [Errno 111] Connection refused',) 
+[01-28-2020 05:47:11] 	 Add to post AutoReconnect('localhost:27017: [Errno 111] Connection refused',) 
+[04-03-2020 09:31:29] 	 502 Server Error: Bad Gateway for url: https://discordapp.com/api/webhooks/608832521353953307/CrTEzjtbqG-YsUWJKyBCer9kXdYo9Han1VfUQn5PZdVDoVhUldbiKMPXo9AT5de10vWr 
+[04-04-2020 05:47:05] 	 Add to post AutoReconnect('localhost:27017: [Errno 111] Connection refused',) 
+[04-04-2020 05:47:06] 	 Add to post AutoReconnect('localhost:27017: [Errno 111] Connection refused',) 
+[04-17-2020 19:09:48] 	 500 Server Error: Internal Server Error for url: https://discordapp.com/api/webhooks/608832521353953307/CrTEzjtbqG-YsUWJKyBCer9kXdYo9Han1VfUQn5PZdVDoVhUldbiKMPXo9AT5de10vWr 
+[04-21-2020 05:46:42] 	 Add to post AutoReconnect('localhost:27017: [Errno 104] Connection reset by peer',) 
+[04-21-2020 05:46:45] 	 Add to post AutoReconnect('localhost:27017: [Errno 111] Connection refused',) 
+[04-28-2020 06:06:37] 	 Update Post: NotMasterError('interrupted at shutdown',) 

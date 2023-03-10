@@ -1,0 +1,30 @@
+{
+    "monitoring_cycle": 5,
+    "base_url" : "https://www.offspring.co.uk",
+    "get_userinfo" : "https://www.offspring.co.uk/view/resources/getUserInfo",
+    "keyword_search_url" : "https://www.offspring.co.uk/view/search",
+    "all_in_ones_webhooksurl" : "https://discordapp.com/api/webhooks/609441719833853977/tgDsMbdy5SwPEcyNsSQ-6qER48t8Y_Te-Dg5YhUF3WuH3Lif8Dqwc3UDARFaDx5G9z1x",
+    "mornitor_urls" : [
+        {
+            "search_url" : "https://www.offspring.co.uk/view/category/offspring_catalog/NEWIN?pageSize=100&sort=releaseDate",
+            "keyword" : "new",
+            "tablename" : "new",
+            "webhooks_url" : "https://discordapp.com/api/webhooks/609441719833853977/tgDsMbdy5SwPEcyNsSQ-6qER48t8Y_Te-Dg5YhUF3WuH3Lif8Dqwc3UDARFaDx5G9z1x"
+        },
+        {
+            "search_url" : "https://www.offspring.co.uk/view/category/offspring_catalog/6?page=1",
+            "keyword" : "sale",
+            "tablename" : "sale",
+            "webhooks_url" : "https://discordapp.com/api/webhooks/609441719833853977/tgDsMbdy5SwPEcyNsSQ-6qER48t8Y_Te-Dg5YhUF3WuH3Lif8Dqwc3UDARFaDx5G9z1x"
+        }
+    ],
+    "mornitor_keyword" : {
+            "search_url" : "keyword_search",
+            "keyword" : "",
+            "tablename" : "",
+            "webhooks_url" : "https://discordapp.com/api/webhooks/609441719833853977/tgDsMbdy5SwPEcyNsSQ-6qER48t8Y_Te-Dg5YhUF3WuH3Lif8Dqwc3UDARFaDx5G9z1x"
+    },
+    "dbname" : "OffSpringUK",
+    "mongodbserver": "mongodb://localhost:27017/",
+    "mongodatabase" : "DiscordMonitor"
+}

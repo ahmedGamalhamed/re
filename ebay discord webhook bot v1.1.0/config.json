@@ -1,0 +1,109 @@
+{
+	"ebay": {
+		"request_timeout": 10,
+		"minimum_interval": 60
+	},
+	"discord": {
+		"webhook_url": "https://discordapp.com/api/webhooks/621488186262028329/K65HjpIwCX5o_1fq6waue-VLYmFF83LLcdmMtPDCfYjdoayQ4AXOH_838Y587HoS_RZd",
+		"seconds_delay": 2.5,
+		"first_run_silence": 60,
+		"notifications": [
+			{
+				"id": "1",
+				"minutes_before": 15,
+				"type": "AUCTION",
+				"json": {
+					"embeds": [{
+						"title": "Ending in 15 minutes!",
+						"description": "[{title}]({url})",
+						"footer": {
+							"text": "eBay Auction - Today at {now_12h}"
+						},
+						"image": {
+							"url": "{image_url}"
+						},
+						"fields": [
+							{
+								"name": "Price",
+								"value": "£{curr_price}",
+								"inline": true
+							},
+							{
+								"name": "Ends",
+								"value": "{ending_12h}",
+								"inline": true
+							},
+							{
+								"name": "Link",
+								"value": "{url}"
+							}
+						]
+					}]
+				}
+			},
+			{
+				"id": "2",
+				"type": "BUY",
+				"json": {
+					"embeds": [{
+						"title": "New {type}",
+						"description": "[{title}]({url})",
+						"footer": {
+							"text": "eBay {type} - Today at {now_12h}"
+						},
+						"image": {
+							"url": "{image_url}"
+						},
+						"fields": [
+							{
+								"name": "Price",
+								"value": "£{curr_price}",
+								"inline": true
+							},
+							{
+								"name": "Rating",
+								"value": "{seller[positive_percentage]}%",
+								"inline": true
+							},
+							{ "name": " ឵", "value": " ឵"},
+							{
+								"name": "Seller",
+								"value": "{seller[username]}",
+								"inline": true
+							},
+							{
+								"name": "Reviews",
+								"value": "{seller[review_count]}",
+								"inline": true
+							},
+							{
+								"name": "Link",
+								"value": "{url}"
+							}
+						]
+					}]
+				}
+			}
+		]
+	},
+	"searches": [
+		{
+			"query": "liverpool blackout",
+			"seconds_interval": 30,
+			"price_min": 75,
+			"price_max": 125,
+			"listing_type": "ALL",
+			"sort_by": "CHEEPEST",
+			"page_length": 100
+		},
+		{
+			"query": "sacai waffle nike",
+			"seconds_interval": 30,
+			"price_min": 300,
+			"price_max": 450,
+			"listing_type": "ALL",
+			"sort_by": "CHEEPEST",
+			"page_length": 100
+		}
+	]
+}

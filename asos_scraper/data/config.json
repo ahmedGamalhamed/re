@@ -1,0 +1,32 @@
+{
+    "monitoring_cycle": 10,
+    "base_url" : "https://www.asos.com",
+    "all_in_ones_webhooksurl" : "https://discordapp.com/api/webhooks/609844551452065802/BvfjwsbrfRxMmNmNc7D8xYEmkXxaOq6BRkRaUrLsnZrVqMJZ9huG2IuRmldSUgaYqINu",
+    "mornitor_urls" : [
+        {
+            "type" : "new",
+            "search_urls" : [
+                "https://www.asos.com/men/shoes-boots-trainers/trainers/cat/?cid=5775&nlid=mw%7Cshoes%7Cshop+by+product",
+                "https://www.asos.com/women/shoes/trainers/cat/?cid=6456&nlid=ww%7Cshoes%7Cshop+by+product"
+            ],
+            "webhooks_url" : "https://discordapp.com/api/webhooks/616775908216274965/3wCiADFMqaXLvat7rysbvIV9QJfzeQ1k39nkS6Zv494-zvBuwaHqpKb_9ts6FRAHnR7V"
+        },
+        {
+            "type" : "sale",
+            "search_urls" : [
+                "https://www.asos.com/women/outlet/shoes/cat/?cid=27416&currentpricerange=0-165&nlid=ww%7Coutlet%7Cshop%20by%20product&refine=attribute_1047:8606",
+                "https://www.asos.com/men/outlet/shoes-trainers/cat/?cid=27437&currentpricerange=0-195&nlid=mw%7Coutlet%7Cshop%20by%20product&refine=attribute_1047:8606"
+            ],
+            "webhooks_url" : "https://discordapp.com/api/webhooks/616776031784927243/KFeEJLpllS1vi3I30GHFffQqFFK41W9UPA70pEt9EcC_V40Cff6Qs_wRdfL9R65ngKIc"
+        },
+        {
+            "type": "keyword",
+            "search_keywords" : [],
+            "keyword_search_url" : "https://www.asos.com/search/",
+            "webhooks_url" : "https://discordapp.com/api/webhooks/616775564887457794/qSxMER6geA-hmDGlAD2wfo_ojVRogUzAw4SflyFF8AImJW1BxRVr789Jg1QUhn7WGSw1"
+        }
+    ],
+    "dbname" : "products",
+    "mongodbserver": "mongodb://localhost:27017/",
+    "mongodatabase" : "DiscordMonitor"
+}

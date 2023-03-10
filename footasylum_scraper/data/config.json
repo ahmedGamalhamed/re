@@ -1,0 +1,34 @@
+{
+    "monitoring_cycle": 60,
+    "base_url" : "https://www.footasylum.com",
+    "all_in_ones_webhooksurl" : "https://discordapp.com/api/webhooks/609844551452065802/BvfjwsbrfRxMmNmNc7D8xYEmkXxaOq6BRkRaUrLsnZrVqMJZ9huG2IuRmldSUgaYqINu",
+    "mornitor_urls" : [
+        {
+            "type" : "new",
+            "search_urls" : [
+                "https://www.footasylum.com/just-landed/new-mens/new-mens-footwear/",
+                "https://www.footasylum.com/just-landed/new-womens/new-womens-footwear/",
+		"https://www.footasylum.com/kids/kids-footwear/junior-sizes-3-65/?order=new+products"
+            ],
+            "webhooks_url" : "https://discordapp.com/api/webhooks/616782613646147613/kfNCSGnuBYhhVTAqCfUV5Iojzwpk_NnvyHfIV5xqcA-MPQ3uZEyd05ztuTjh5bF81otw"
+        },
+        {
+            "type" : "sale",
+            "search_urls" : [
+                "https://www.footasylum.com/sale/sale-mens/sale-mens-footwear/",
+                "https://www.footasylum.com/sale/sale-womens/sale-womens-footwear/",
+                "https://www.footasylum.com/sale/sale-kids/junior-footwear/"
+            ],
+            "webhooks_url" : "https://discordapp.com/api/webhooks/616782695468367924/mbc9RKXjrwfq_xNPRzJtT2rrTTZOF7vyTtIx_y5QF-mWri6bfxIFxrkmkcHvMPy96DAy"
+        },
+        {
+            "type": "keyword",
+            "search_keywords" : [],
+            "keyword_search_url" : "https://www.footasylum.com/page/search/",
+            "webhooks_url" : "https://discordapp.com/api/webhooks/616782460075769876/6uQuJpjnGZlUpnxoeFueA9U0n_jc7MYhk5gK-IevFDWk3Navu4gDzIZsiSIlmYm6WUh4"
+        }
+    ],
+    "dbname" : "products",
+    "mongodbserver": "mongodb://localhost:27017/",
+    "mongodatabase" : "DiscordMonitor"
+}

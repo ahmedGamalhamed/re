@@ -1,0 +1,38 @@
+{
+    "directurl_monitor_cycle": 60,
+    "base_url" : "https://www.nike.com",
+    "all_in_ones_webhooksurl" : "https://discordapp.com/api/webhooks/609844551452065802/BvfjwsbrfRxMmNmNc7D8xYEmkXxaOq6BRkRaUrLsnZrVqMJZ9huG2IuRmldSUgaYqINu",
+    "mornitor_urls" : [
+        {
+            "type" : "new",
+            "search_urls" : [
+                "https://www.nike.com/gb/w/new-shoes-3n82yzy7ok?sort=newest",
+                "https://www.nike.com/gb/w/new-shoes-3n82yzy7ok",
+		"https://www.nike.com/gb/w/new-3n82y"
+
+            ],
+            "monitoring_cycle": 14400,
+            "webhooks_url" : "https://discordapp.com/api/webhooks/637130395137212437/loBLm9N3e2S9K8q5zEb15j6uZk-8iocsBhREkE4yJM8wlLxfwhpSI0C7LpPP6xniCd97"
+        },
+        {
+            "type" : "sale",
+            "search_urls" : [
+                "https://www.nike.com/gb/w/sale-3yaep",
+		        "https://www.nike.com/gb/w/sale-3yaep?sort=newest",
+				"https://www.nike.com/gb/w/sale-lifestyle-shoes-13jrmz3yaepzy7ok?sort=newest"
+            ],
+            "monitoring_cycle": 14400,
+            "webhooks_url" : "https://discordapp.com/api/webhooks/622136934956924990/-FQO3tUSe_z5BCNokAaoDIfP0QTvMeJZorSyAjA9Xs09PsvpQvHjqFCy_3KK5mJtmNBH"
+        },
+        {
+            "type": "keyword",
+            "search_keywords" : [],
+            "keyword_search_url" : "https://www.nike.com/gb/w",
+            "monitoring_cycle": 3600,
+            "webhooks_url" : "https://discordapp.com/api/webhooks/637129714439553024/EqFU8c9st6dDY_rTLWAIwsJpOrE3LGgL4YXiLZopPUsqboFNZTGjJSS2bNsMAcsdaljL"
+        }
+    ],
+    "dbname" : "products",
+    "mongodbserver": "mongodb://localhost:27017/",
+    "mongodatabase" : "DiscordMonitor"
+}

@@ -1,0 +1,33 @@
+{
+    "directurl_monitor_cycle": 3600,
+    "dbname" : "products",
+    "base_url" : "https://www.footlocker.co.uk",
+    "homepage_url" : "https://www.footlocker.co.uk/en/homepage",
+    "keyword_search_url" : "https://www.footlocker.co.uk/en/search",
+    "all_in_ones_webhooksurl" : "https://discordapp.com/api/webhooks/609844551452065802/BvfjwsbrfRxMmNmNc7D8xYEmkXxaOq6BRkRaUrLsnZrVqMJZ9huG2IuRmldSUgaYqINu",
+    "mornitor_urls" : [
+        {
+            "search_url" : "https://www.footlocker.co.uk/en/all/sale/",
+            "keyword" : "sale",
+            "tablename" : "sale",
+            "monitoring_cycle": 14400,
+            "webhooks_url" : "https://discordapp.com/api/webhooks/608050234614087680/n4WZSr0v9OFVKCbxiPoKF6qa2I8n37MD29C2kp4zanaL-gjxvfzNMb1akR8y_NJ0Phb5"
+        },
+        {
+            "search_url" : "https://www.footlocker.co.uk/en/all/new/",
+            "keyword" : "new",
+            "tablename" : "new",
+            "monitoring_cycle": 14400,
+            "webhooks_url" : "https://discordapp.com/api/webhooks/608050415266955266/8G8S5bT76iTZoQOoq3vOZ9u6Ppnh7FfCCGZbxtAG5W25YW04VFZK6H2bfij1ECyzdvf0"
+        }
+    ],
+    "mornitor_keyword" : {
+            "search_url" : "keyword_search",
+            "keyword" : "",
+            "tablename" : "",
+            "monitoring_cycle": 3600,
+            "webhooks_url" : "https://discordapp.com/api/webhooks/608050356831780884/rLEs5iINyyQ3OYZe60_Gi7NTAbVSmexP2jsx4pf4qDZsfEwIGd6tlUTwra2f35uHlwy4"
+    },
+    "mongodbserver": "mongodb://localhost:27017/",
+    "mongodatabase" : "DiscordMonitor"
+}

@@ -1,0 +1,29 @@
+{
+    "monitoring_cycle": 60,
+    "base_url" : "https://www.jdsports.co.uk",
+    "keyword_search_url" : "https://www.jdsports.co.uk/products/search/",
+    "all_in_ones_webhooksurl" : "https://discordapp.com/api/webhooks/609844551452065802/BvfjwsbrfRxMmNmNc7D8xYEmkXxaOq6BRkRaUrLsnZrVqMJZ9huG2IuRmldSUgaYqINu",
+    "mornitor_urls" : [
+        {
+            "search_url" : "https://www.jdsports.co.uk/campaign/new+in/?facet-new=latest&sort=latest",
+            "keyword" : "new",
+            "tablename" : "new",
+            "webhooks_url" : "https://discordapp.com/api/webhooks/615588831449579540/Z0pEspE24K8BlqJ7pw6jIs3RYUDtcjXGu27yT8Ek5WvT7tRLZnLBUqORZvBrHFxvV2-H"
+        },
+        {
+            "search_url" : "https://www.jdsports.co.uk/sale/latest/",
+            "keyword" : "sale",
+            "tablename" : "sale",
+            "webhooks_url" : "https://discordapp.com/api/webhooks/615860589016907777/Cl-51y5qGoEcoNy9W-tDj4XvG9SRqWC61M1SnQ6OFTbc8Mlh9XoiGOMTYDZf4GjuEw11"
+        }
+    ],
+    "mornitor_keyword" : {
+            "search_url" : "keyword_search",
+            "keyword" : "",
+            "tablename" : "",
+            "webhooks_url" : "https://discordapp.com/api/webhooks/615588681129918474/Lt2XD633koQs-FbA4MqBrpLBrC0jPBWODP8l8txYGJXqNnn2MGw3PxxdzGUIrmmrSN62"
+    },
+    "dbname": "products",
+    "mongodbserver": "mongodb://localhost:27017/",
+    "mongodatabase" : "DiscordMonitor"
+}

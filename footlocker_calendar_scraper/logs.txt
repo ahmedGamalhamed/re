@@ -1,0 +1,766 @@
+[07-16-2020 20:10:33] [INFO] 1 proxies loaded.
+[07-16-2020 20:10:33] [INFO] Start Footlocker Calendar monitoring
+[07-16-2020 20:10:34] [SUCESS] Found NEW product <Manchester United Home Jersey>
+[07-16-2020 20:10:35] [SUCESS] Found NEW product <Stan Smith>
+[07-16-2020 20:10:35] [SUCESS] Found NEW product <Stan Smith>
+[07-16-2020 20:10:35] [SUCESS] Found NEW product <Yeezy Boost 350 V2 EU48-52.5>
+[07-16-2020 20:10:35] [SUCESS] Found NEW product <Blazer>
+[07-16-2020 20:10:36] [SUCESS] Found NEW product <Tech Fleece>
+[07-16-2020 20:10:37] [SUCESS] Found NEW product <Stan Smith>
+[07-16-2020 20:10:37] [SUCESS] Found NEW product <Air Max 90>
+[07-16-2020 20:10:38] [SUCESS] Found NEW product <Superstar Bold>
+[07-16-2020 20:10:38] [SUCESS] Found NEW product <Zero>
+[07-16-2020 20:10:38] [SUCESS] Found NEW product <Hacked Satin>
+[07-16-2020 20:10:39] [SUCESS] Found NEW product <Ultraboost Og Tokyo>
+[07-16-2020 20:10:39] [SUCESS] Found NEW product <Tuned 1>
+[07-16-2020 20:10:39] [SUCESS] Found NEW product <KD 13>
+[07-16-2020 20:10:40] [SUCESS] Found NEW product <6 Retro Q54>
+[07-16-2020 20:10:40] [SUCESS] Found NEW product <React Art3mis>
+[07-16-2020 20:10:41] [SUCESS] Found NEW product <Wild>
+[07-16-2020 20:10:41] [SUCESS] Found NEW product <Tech Fleece>
+[07-16-2020 20:10:42] [SUCESS] Found NEW product <Tuned 1>
+[07-16-2020 20:10:42] [SUCESS] Found NEW product <Basketball Tiger>
+[07-16-2020 20:10:42] [SUCESS] Found NEW product <1 Low Q54>
+[07-16-2020 20:10:43] [SUCESS] Found NEW product <ZX 2K Boost>
+[07-16-2020 20:10:44] [SUCESS] Found NEW product <11 Retro>
+[07-16-2020 20:10:44] [SUCESS] Found NEW product <Paris Saint German Vaporknit Drill Top>
+[07-16-2020 20:10:44] [SUCESS] Found NEW product <Chuck Taylor All Star Low Scooby-Doo>
+[07-16-2020 20:10:44] [SUCESS] Found NEW product <Club C Double>
+[07-16-2020 20:10:45] [SUCESS] Found NEW product <Fish Slip-on V (The Simpsons) Blinky>
+[07-16-2020 20:10:46] [SUCESS] Found NEW product <Ultraboost Og Montreal>
+[07-16-2020 20:10:46] [SUCESS] Found NEW product <Basketball 2 Tiger Over The Head>
+[07-16-2020 20:10:47] [SUCESS] Found NEW product <Air Jordan 1 High Og>
+[07-16-2020 20:10:47] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:35:51] [INFO] 1 proxies loaded.
+[07-18-2020 05:35:51] [INFO] Start Footlocker Calendar monitoring
+[07-18-2020 05:35:57] [SUCESS] Found NEW product <327>
+[07-18-2020 05:35:57] [SUCESS] Found NEW product <Chuck Taylor All Star High Scooby-Doo>
+[07-18-2020 05:35:57] [SUCESS] Found NEW product <ClimaCool Vento Boost>
+[07-18-2020 05:35:57] [SUCESS] Found NEW product <Wild Full Zip>
+[07-18-2020 05:35:58] [SUCESS] Found NEW product <Real Madrid Away Jersey>
+[07-18-2020 05:35:58] [SUCESS] Found NEW product <Unity>
+[07-18-2020 05:35:59] [SUCESS] Found NEW product <Chuck 70 High Scooby-Doo>
+[07-18-2020 05:36:00] [SUCESS] Found NEW product <NMD R1 V2>
+[07-18-2020 05:36:00] [SUCESS] Found NEW product <Air Performance Basketball>
+[07-18-2020 05:36:00] [SUCESS] Found NEW product <Kyrie 3 Low>
+[07-18-2020 05:36:00] [SUCESS] Found NEW product <Tuned 1>
+[07-18-2020 05:36:01] [SUCESS] Found NEW product <Basketball Tiger>
+[07-18-2020 05:36:02] [SUCESS] Found NEW product <RS-Dreamer>
+[07-18-2020 05:36:02] [SUCESS] Found NEW product <Yeezy Boost 350 V2 EU36-47>
+[07-18-2020 05:36:02] [SUCESS] Found NEW product <327>
+[07-18-2020 05:36:02] [SUCESS] Found NEW product <NMD R1 V2>
+[07-18-2020 05:36:04] [SUCESS] Found NEW product <Legacy>
+[07-18-2020 05:36:04] [SUCESS] Found NEW product <Team Elevate Q54>
+[07-18-2020 05:36:04] [SUCESS] Found NEW product <Tech Fleece Full Zip>
+[07-18-2020 05:36:04] [SUCESS] Found NEW product <Giannis>
+[07-18-2020 05:36:05] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:36:06] [SUCESS] Found NEW product <327>
+[07-18-2020 05:36:06] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:36:06] [SUCESS] Found NEW product <Kyrie 6>
+[07-18-2020 05:36:06] [SUCESS] Found NEW product <3 Retro>
+[07-18-2020 05:36:07] [SUCESS] Found NEW product <Future Rider Unity>
+[07-18-2020 05:36:08] [SUCESS] Found NEW product <Jordan 1 Mid>
+[07-18-2020 05:36:08] [SUCESS] Found NEW product <Gel-Quantum 360>
+[07-18-2020 05:36:08] [SUCESS] Found NEW product <Blazer>
+[07-18-2020 05:36:08] [SUCESS] Found NEW product <Air 3>
+[07-18-2020 05:36:09] [SUCESS] Found NEW product <Giannis Track>
+[07-18-2020 05:36:57] [SUCESS] Found NEW product <Zx 2K Boost>
+[07-18-2020 05:36:57] [SUCESS] Found NEW product <Street Rider Unity>
+[07-18-2020 05:36:58] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:36:58] [SUCESS] Found NEW product <ZX 2K Boost>
+[07-18-2020 05:36:58] [SUCESS] Found NEW product <Classic>
+[07-18-2020 05:36:59] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:37:00] [SUCESS] Found NEW product <RS-X 3 Strike>
+[07-18-2020 05:37:00] [SUCESS] Found NEW product <1 Retro High OG>
+[07-18-2020 05:37:00] [SUCESS] Found NEW product <ClimaCool Vento Boost>
+[07-18-2020 05:37:00] [SUCESS] Found NEW product <Giannis Tracktop>
+[07-18-2020 05:37:02] [SUCESS] Found NEW product <Juventus Home Jersey>
+[07-18-2020 05:37:02] [SUCESS] Found NEW product <Aztec Princess>
+[07-18-2020 05:37:02] [SUCESS] Found NEW product <Basketball Tier>
+[07-18-2020 05:37:02] [SUCESS] Found NEW product <Adapt BB>
+[07-18-2020 05:37:02] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:37:04] [SUCESS] Found NEW product <Legacy 1>
+[07-18-2020 05:37:04] [SUCESS] Found NEW product <327>
+[07-18-2020 05:37:04] [SUCESS] Found NEW product <LeBron 17 Low>
+[07-18-2020 05:37:04] [SUCESS] Found NEW product <Box>
+[07-18-2020 05:37:05] [SUCESS] Found NEW product <Real Madrid Home Jersey>
+[07-18-2020 05:37:06] [SUCESS] Found NEW product <Wild>
+[07-18-2020 05:37:06] [SUCESS] Found NEW product <KD 13>
+[07-18-2020 05:37:06] [SUCESS] Found NEW product <Air Force 1>
+[07-18-2020 05:37:06] [SUCESS] Found NEW product <Sk8-hi Zip 9The Simpsons) 1987-2020>
+[07-18-2020 05:37:07] [SUCESS] Found NEW product <Superstar Digital>
+[07-18-2020 05:37:08] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:37:08] [SUCESS] Found NEW product <Arsenal Home>
+[07-18-2020 05:37:08] [SUCESS] Found NEW product <Tuned 1>
+[07-18-2020 05:37:09] [SUCESS] Found NEW product <RS-Dreamer>
+[07-18-2020 05:37:09] [SUCESS] Found NEW product <Tech Fleece Full Zip>
+[07-18-2020 05:37:57] [SUCESS] Found NEW product <Kyrie 6>
+[07-18-2020 05:37:58] [SUCESS] Found NEW product <RS-X 3 Strike>
+[07-18-2020 05:37:58] [SUCESS] Found NEW product <Sk8-hi Zip (The Simpsons) Lisa 4 Prez>
+[07-18-2020 05:37:58] [SUCESS] Found NEW product <Chuck 70 High Scooby-Doo>
+[07-18-2020 05:37:58] [SUCESS] Found NEW product <Giannis Over The Head>
+[07-18-2020 05:38:00] [SUCESS] Found NEW product <Chuck Taylor All Star High Scooby-Doo>
+[07-18-2020 05:38:00] [SUCESS] Found NEW product <RS-X 3 Strike>
+[07-18-2020 05:38:00] [SUCESS] Found NEW product <8 Mid>
+[07-18-2020 05:38:00] [SUCESS] Found NEW product <Giannis Freak Logo>
+[07-18-2020 05:38:00] [SUCESS] Found NEW product <Unity>
+[07-18-2020 05:38:02] [SUCESS] Found NEW product <Throwback All Over Print>
+[07-18-2020 05:38:02] [SUCESS] Found NEW product <KD 13>
+[07-18-2020 05:38:02] [SUCESS] Found NEW product <Stan Smith>
+[07-18-2020 05:38:02] [SUCESS] Found NEW product <Air Vapormax 2020>
+[07-18-2020 05:38:03] [SUCESS] Found NEW product <Superstar>
+[07-18-2020 05:38:04] [SUCESS] Found NEW product <Continental 80>
+[07-18-2020 05:38:04] [SUCESS] Found NEW product <Ultra Boost 20>
+[07-18-2020 05:38:04] [SUCESS] Found NEW product <Real Madrid Half Zip>
+[07-18-2020 05:38:04] [SUCESS] Found NEW product <327>
+[07-18-2020 05:38:05] [SUCESS] Found NEW product <NMD R1 V2>
+[07-18-2020 05:38:06] [SUCESS] Found NEW product <Legacy 1>
+[07-18-2020 05:38:06] [SUCESS] Found NEW product <Old Skool V (The Simpsons) El Barto>
+[07-18-2020 05:38:06] [SUCESS] Found NEW product <Real Madrid Half Zip>
+[07-18-2020 05:38:07] [SUCESS] Found NEW product <ClimaCool Vento Boost>
+[07-18-2020 05:38:07] [SUCESS] Found NEW product <ZX 2K Boost>
+[07-18-2020 05:38:08] [SUCESS] Found NEW product <RS-X 3 Strike>
+[07-18-2020 05:38:08] [SUCESS] Found NEW product <Legacy>
+[07-18-2020 05:38:09] [SUCESS] Found NEW product <Nmd R1 V2 Mexico City>
+[07-18-2020 05:38:09] [SUCESS] Found NEW product <5 Retro>
+[07-18-2020 05:38:09] [SUCESS] Found NEW product <Tech Fleece Full Zip>
+[07-18-2020 05:38:58] [SUCESS] Found NEW product <Gel-Quantum 90>
+[07-18-2020 05:38:58] [SUCESS] Found NEW product <Unity>
+[07-18-2020 05:38:58] [SUCESS] Found NEW product <Giannis Freak Logo>
+[07-18-2020 05:38:58] [SUCESS] Found NEW product <Legacy 1>
+[07-18-2020 05:38:58] [SUCESS] Found NEW product <Zx 2K Boost>
+[07-18-2020 05:39:00] [SUCESS] Found NEW product <Air Performance>
+[07-18-2020 05:39:00] [SUCESS] Found NEW product <Nmd V2 Munich>
+[07-18-2020 05:39:00] [SUCESS] Found NEW product <Future Rider>
+[07-18-2020 05:39:01] [SUCESS] Found NEW product <Ultra Boost 20>
+[07-18-2020 05:39:01] [SUCESS] Found NEW product <RS-X 3 Unity>
+[07-18-2020 05:39:02] [SUCESS] Found NEW product <Superstar>
+[07-18-2020 05:39:02] [SUCESS] Found NEW product <LeBron 17 Low>
+[07-18-2020 05:39:02] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:39:03] [SUCESS] Found NEW product <Air Force 1>
+[07-18-2020 05:39:03] [SUCESS] Found NEW product <Legacy 1>
+[07-18-2020 05:39:04] [SUCESS] Found NEW product <Unity>
+[07-18-2020 05:39:04] [SUCESS] Found NEW product <Air Max 90>
+[07-18-2020 05:39:04] [SUCESS] Found NEW product <Air Vapormax 2020 Flyknit>
+[07-18-2020 05:39:05] [SUCESS] Found NEW product <Air Force 1 Shadow>
+[07-18-2020 05:39:05] [SUCESS] Found NEW product <Tech Fleece Bomber>
+[07-18-2020 05:39:06] [SUCESS] Found NEW product <Unity>
+[07-18-2020 05:39:06] [SUCESS] Found NEW product <Tech Fleece Full Zip>
+[07-18-2020 05:39:07] [SUCESS] Found NEW product <Zx 400 4D>
+[07-18-2020 05:39:07] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:39:07] [SUCESS] Found NEW product <React Art3mis>
+[07-18-2020 05:39:08] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:39:09] [SUCESS] Found NEW product <Air Vapormax 2020>
+[07-18-2020 05:39:09] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:39:09] [SUCESS] Found NEW product <Air Max 2090>
+[07-18-2020 05:39:09] [SUCESS] Found NEW product <Street Rider Unity>
+[07-18-2020 05:39:58] [SUCESS] Found NEW product <Aztec Princess>
+[07-18-2020 05:39:58] [SUCESS] Found NEW product <RS-Dreamer>
+[07-18-2020 05:39:58] [SUCESS] Found NEW product <Superstar Digital>
+[07-18-2020 05:39:58] [SUCESS] Found NEW product <Chuck Taylor All Star High Scooby-Doo>
+[07-18-2020 05:39:59] [SUCESS] Found NEW product <Cali Sport Unity>
+[07-18-2020 05:40:00] [SUCESS] Found NEW product <RS-X 3 Strike>
+[07-18-2020 05:40:00] [SUCESS] Found NEW product <Old Skool V (The Simpsons) El Barto>
+[07-18-2020 05:40:00] [SUCESS] Found NEW product <Manchester United Track>
+[07-18-2020 05:40:01] [SUCESS] Found NEW product <Giannis>
+[07-18-2020 05:40:01] [SUCESS] Found NEW product <Giannis Over The Head>
+[07-18-2020 05:40:02] [SUCESS] Found NEW product <Novablast>
+[07-18-2020 05:40:02] [SUCESS] Found NEW product <Real Madrid Crew>
+[07-18-2020 05:40:03] [SUCESS] Found NEW product <Yeezy Boost 350 V2>
+[07-18-2020 05:40:03] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:40:03] [SUCESS] Found NEW product <Air Force 1 Shadow>
+[07-18-2020 05:40:04] [SUCESS] Found NEW product <Future Rider X Ushuaia>
+[07-18-2020 05:40:04] [SUCESS] Found NEW product <Superstar>
+[07-18-2020 05:40:05] [SUCESS] Found NEW product <T7>
+[07-18-2020 05:40:05] [SUCESS] Found NEW product <Chuck 70 High Scooby-Doo>
+[07-18-2020 05:40:05] [SUCESS] Found NEW product <Real Madrid Track>
+[07-18-2020 05:40:07] [SUCESS] Found NEW product <Unity>
+[07-18-2020 05:40:07] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:40:07] [SUCESS] Found NEW product <Sk8-hi Zip (The Simpsons) 1987-2020>
+[07-18-2020 05:40:07] [SUCESS] Found NEW product <327>
+[07-18-2020 05:40:07] [SUCESS] Found NEW product <React Vision>
+[07-18-2020 05:40:08] [SUCESS] Found NEW product <327>
+[07-18-2020 05:40:09] [SUCESS] Found NEW product <327>
+[07-18-2020 05:40:09] [SUCESS] Found NEW product <Future Rider Unity>
+[07-18-2020 05:40:09] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:40:09] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:40:58] [SUCESS] Found NEW product <Giannis Big Freak Logo>
+[07-18-2020 05:40:58] [SUCESS] Found NEW product <Sk8-hi Zip 9The Simpsons) Lisa 4 Prez>
+[07-18-2020 05:40:59] [SUCESS] Found NEW product <Arsenal Half Zip>
+[07-18-2020 05:40:59] [SUCESS] Found NEW product <RS-X 3 Unity>
+[07-18-2020 05:40:59] [SUCESS] Found NEW product <Throwback Woven>
+[07-18-2020 05:41:00] [SUCESS] Found NEW product <Air Max 97>
+[07-18-2020 05:41:00] [SUCESS] Found NEW product <Real Madrid Polo>
+[07-18-2020 05:41:01] [SUCESS] Found NEW product <Air Force 1>
+[07-18-2020 05:41:01] [SUCESS] Found NEW product <Air Vapormax 2020 Flyknit>
+[07-18-2020 05:41:01] [SUCESS] Found NEW product <Yeezy Boost 350 V2>
+[07-18-2020 05:41:02] [SUCESS] Found NEW product <Ultra Boost OG>
+[07-18-2020 05:41:03] [SUCESS] Found NEW product <Future Rider Unity>
+[07-18-2020 05:41:03] [SUCESS] Found NEW product <Zx Fuse Boost>
+[07-18-2020 05:41:03] [SUCESS] Found NEW product <Tech Fleece Full Zip>
+[07-18-2020 05:41:03] [SUCESS] Found NEW product <Tuned 1>
+[07-18-2020 05:41:04] [SUCESS] Found NEW product <Ervik>
+[07-18-2020 05:41:05] [SUCESS] Found NEW product <Throwback Woven>
+[07-18-2020 05:41:05] [SUCESS] Found NEW product <Basketball Cat>
+[07-18-2020 05:41:05] [SUCESS] Found NEW product <Blazer Mid '77 Vintage>
+[07-18-2020 05:41:05] [SUCESS] Found NEW product <Zoom Freak 1>
+[07-18-2020 05:41:07] [SUCESS] Found NEW product <ZX 2K Boost>
+[07-18-2020 05:41:07] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:41:07] [SUCESS] Found NEW product <Air Max 97>
+[07-18-2020 05:41:07] [SUCESS] Found NEW product <Paris Saint Germain Vest>
+[07-18-2020 05:41:08] [SUCESS] Found NEW product <Paris Red Star Away Jersey>
+[07-18-2020 05:41:09] [SUCESS] Found NEW product <Hacked Satin>
+[07-18-2020 05:41:09] [SUCESS] Found NEW product <Zoom Freak 1>
+[07-18-2020 05:41:09] [SUCESS] Found NEW product <Puffy Anorak>
+[07-18-2020 05:41:09] [SUCESS] Found NEW product <Old Skool X Depop>
+[07-18-2020 05:41:10] [SUCESS] Found NEW product <ZX 2K Boost>
+[07-18-2020 05:41:58] [SUCESS] Found NEW product <PG 4>
+[07-18-2020 05:41:58] [SUCESS] Found NEW product <Future Rider Unity>
+[07-18-2020 05:41:59] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:41:59] [SUCESS] Found NEW product <Tuned 1>
+[07-18-2020 05:41:59] [SUCESS] Found NEW product <Tuned 1>
+[07-18-2020 05:42:00] [SUCESS] Found NEW product <Supercourt>
+[07-18-2020 05:42:01] [SUCESS] Found NEW product <Tech Fleece Full Zip>
+[07-18-2020 05:42:01] [SUCESS] Found NEW product <RS-2K Unity>
+[07-18-2020 05:42:01] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:42:01] [SUCESS] Found NEW product <RS-2K>
+[07-18-2020 05:42:02] [SUCESS] Found NEW product <Hoops OMN1>
+[07-18-2020 05:42:03] [SUCESS] Found NEW product <Paris Saint German Vaporknit Drill Top>
+[07-18-2020 05:42:03] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:42:03] [SUCESS] Found NEW product <Manchester United Half Zip>
+[07-18-2020 05:42:03] [SUCESS] Found NEW product <RS-X 3 Strike>
+[07-18-2020 05:42:05] [SUCESS] Found NEW product <Glannis Over The Head>
+[07-18-2020 05:42:05] [SUCESS] Found NEW product <Legacy>
+[07-18-2020 05:42:05] [SUCESS] Found NEW product <Kyrie 6>
+[07-18-2020 05:42:05] [SUCESS] Found NEW product <RS-X 3 Strike>
+[07-18-2020 05:42:06] [SUCESS] Found NEW product <Paris Saint German Woven>
+[07-18-2020 05:42:07] [SUCESS] Found NEW product <Future Rider Asymetric>
+[07-18-2020 05:42:07] [SUCESS] Found NEW product <Novablast>
+[07-18-2020 05:42:07] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:42:08] [SUCESS] Found NEW product <23 Engineered>
+[07-18-2020 05:42:08] [SUCESS] Found NEW product <NMD R1 V2>
+[07-18-2020 05:42:09] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:42:09] [SUCESS] Found NEW product <Air Max Verona>
+[07-18-2020 05:42:09] [SUCESS] Found NEW product <KD 13>
+[07-18-2020 05:42:10] [SUCESS] Found NEW product <Basketball Cat>
+[07-18-2020 05:42:10] [SUCESS] Found NEW product <Tuned>
+[07-18-2020 05:42:58] [SUCESS] Found NEW product <Air 3>
+[07-18-2020 05:42:59] [SUCESS] Found NEW product <Chuck 70 High Scooby-Doo>
+[07-18-2020 05:42:59] [SUCESS] Found NEW product <Air Force 1>
+[07-18-2020 05:42:59] [SUCESS] Found NEW product <Giannis>
+[07-18-2020 05:42:59] [SUCESS] Found NEW product <327>
+[07-18-2020 05:43:01] [SUCESS] Found NEW product <ClimaCool Vento Boost>
+[07-18-2020 05:43:01] [SUCESS] Found NEW product <Throwback>
+[07-18-2020 05:43:01] [SUCESS] Found NEW product <Paris Red Star Home Jersey>
+[07-18-2020 05:43:02] [SUCESS] Found NEW product <Authentic (The Simpsons) Glow Bart>
+[07-18-2020 05:43:02] [SUCESS] Found NEW product <Future Rider>
+[07-18-2020 05:43:03] [SUCESS] Found NEW product <Air Vapormax 2020 Flyknit>
+[07-18-2020 05:43:03] [SUCESS] Found NEW product <Air Max 2090>
+[07-18-2020 05:43:03] [SUCESS] Found NEW product <Chuck Taylor All Star High Scooby-Doo>
+[07-18-2020 05:43:03] [SUCESS] Found NEW product <Air Max 2090>
+[07-18-2020 05:43:04] [SUCESS] Found NEW product <Throwback>
+[07-18-2020 05:43:05] [SUCESS] Found NEW product <Legacy>
+[07-18-2020 05:43:05] [SUCESS] Found NEW product <Legacy>
+[07-18-2020 05:43:05] [SUCESS] Found NEW product <Zx Boost>
+[07-18-2020 05:43:06] [SUCESS] Found NEW product <Air Force 1>
+[07-18-2020 05:43:06] [SUCESS] Found NEW product <Air Max 2090>
+[07-18-2020 05:43:07] [SUCESS] Found NEW product <ClimaCool Vento Boost>
+[07-18-2020 05:43:07] [SUCESS] Found NEW product <Zx Fuse Boost>
+[07-18-2020 05:43:07] [SUCESS] Found NEW product <Basketball Cat Longsleeve>
+[07-18-2020 05:43:08] [SUCESS] Found NEW product <Blazer>
+[07-18-2020 05:43:08] [SUCESS] Found NEW product <327>
+[07-18-2020 05:43:09] [SUCESS] Found NEW product <Tech Fleece>
+[07-18-2020 05:43:09] [SUCESS] Found NEW product <327>
+[07-18-2020 05:43:09] [SUCESS] Found NEW product <Giannis All Over Print Tank>
+[07-18-2020 05:43:10] [SUCESS] Found NEW product <Gel-Quantum 360>
+[07-18-2020 05:43:10] [SUCESS] Found NEW product <Trowback All Over Print Over The Head>
+[01-13-2021 21:20:57] [INFO] 1 proxies loaded.
+[01-13-2021 21:20:57] [INFO] Start Footlocker Calendar monitoring
+[01-13-2021 21:20:59] [SUCESS] Found NEW product <1 Mid>
+[01-13-2021 21:20:59] [SUCESS] Found NEW product <1 High Strap>
+[01-13-2021 21:20:59] [SUCESS] Found NEW product <X CTM Guardians>
+[01-13-2021 21:21:00] [SUCESS] Found NEW product <Air Max 2090>
+[01-13-2021 21:21:00] [SUCESS] Found NEW product <Lebron 12 "Data">
+[01-13-2021 21:21:00] [SUCESS] Found NEW product <Tuned 1 Essential>
+[01-13-2021 21:21:01] [SUCESS] Found NEW product <Future Rider>
+[01-13-2021 21:21:02] [SUCESS] Found NEW product <Rs-dreamer Low>
+[01-13-2021 21:21:02] [SUCESS] Found NEW product <Los Angeles Lakers City Edition>
+[01-13-2021 21:21:02] [SUCESS] Found NEW product <Miami Heat City Edition>
+[01-13-2021 21:21:02] [SUCESS] Found NEW product <Superstar Arizona>
+[01-13-2021 21:21:04] [SUCESS] Found NEW product <Los Angeles Lakers City Edition Over The Head>
+[01-13-2021 21:21:04] [SUCESS] Found NEW product <Superstar>
+[01-13-2021 21:21:04] [SUCESS] Found NEW product <Over The Head>
+[01-13-2021 21:21:04] [SUCESS] Found NEW product <Dunk Low>
+[01-13-2021 21:21:05] [SUCESS] Found NEW product <X Sophia Foot Print>
+[01-13-2021 21:21:06] [SUCESS] Found NEW product <Harden V5>
+[01-13-2021 21:21:06] [SUCESS] Found NEW product <Air Force 1 Gore-Tex>
+[01-13-2021 21:21:06] [SUCESS] Found NEW product <Tuned 1 Essential>
+[01-13-2021 21:21:06] [SUCESS] Found NEW product <RS-X>
+[01-13-2021 21:21:07] [SUCESS] Found NEW product <Club C X Cardi B>
+[01-13-2021 21:21:08] [SUCESS] Found NEW product <Chicago Bulls City Edition Over The Head>
+[01-13-2021 21:21:08] [SUCESS] Found NEW product <1 Low>
+[01-13-2021 21:21:08] [SUCESS] Found NEW product <Re Dreamer Mid>
+[01-13-2021 21:21:09] [SUCESS] Found NEW product <Air Force 1 Flyknit Low>
+[01-13-2021 21:21:09] [SUCESS] Found NEW product <Street Rider>
+[01-13-2021 21:21:10] [SUCESS] Found NEW product <X Sophia Circle Print>
+[01-13-2021 21:21:10] [SUCESS] Found NEW product <Pg 5>
+[01-13-2021 21:21:10] [SUCESS] Found NEW product <ZX 2K Boost>
+[01-13-2021 21:21:11] [SUCESS] Found NEW product <Air Force 1 '07>
+[01-13-2021 21:21:11] [SUCESS] Found NEW product <Tuned 2>
+[01-13-2021 21:21:59] [SUCESS] Found NEW product <Club C Double Coated>
+[01-13-2021 21:22:00] [SUCESS] Found NEW product <Gel Lyte III>
+[01-13-2021 21:22:00] [SUCESS] Found NEW product <RS-Dreamer>
+[01-13-2021 21:22:00] [SUCESS] Found NEW product <Space Hippie 04>
+[01-13-2021 21:22:00] [SUCESS] Found NEW product <X LDG>
+[01-13-2021 21:22:02] [SUCESS] Found NEW product <Air Max Zephyr>
+[01-13-2021 21:22:02] [SUCESS] Found NEW product <Miami Heat City Edition>
+[01-13-2021 21:22:03] [SUCESS] Found NEW product <Shortsleeve>
+[01-13-2021 21:22:03] [SUCESS] Found NEW product <Dunk High>
+[01-13-2021 21:22:03] [SUCESS] Found NEW product <Air Max 2090>
+[01-13-2021 21:22:04] [SUCESS] Found NEW product <Club C X Cardi B>
+[01-13-2021 21:22:04] [SUCESS] Found NEW product <LeBron 18>
+[01-13-2021 21:22:04] [SUCESS] Found NEW product <Future Rider>
+[01-13-2021 21:22:04] [SUCESS] Found NEW product <Tuned 3>
+[01-13-2021 21:22:05] [SUCESS] Found NEW product <Zoom Air Fire>
+[01-13-2021 21:22:06] [SUCESS] Found NEW product <Air Force 1 Low>
+[01-13-2021 21:22:06] [SUCESS] Found NEW product <Air Force 1 Low>
+[01-13-2021 21:22:06] [SUCESS] Found NEW product <Zoom Freak 2>
+[01-13-2021 21:22:07] [SUCESS] Found NEW product <Tuned 2>
+[01-13-2021 21:22:07] [SUCESS] Found NEW product <M2Z>
+[01-13-2021 21:22:08] [SUCESS] Found NEW product <Over The Head>
+[01-13-2021 21:22:08] [SUCESS] Found NEW product <Prjct Rock>
+[01-13-2021 21:22:09] [SUCESS] Found NEW product <Air Max 95 Essential Recycled Felt>
+[01-13-2021 21:22:09] [SUCESS] Found NEW product <Golden State Curry City Edition Swingman Jersey>
+[01-13-2021 21:22:09] [SUCESS] Found NEW product <Shortsleeve>
+[01-13-2021 21:22:11] [SUCESS] Found NEW product <327 X Levis>
+[01-13-2021 21:22:11] [SUCESS] Found NEW product <1 Mid>
+[01-13-2021 21:22:11] [SUCESS] Found NEW product <Air Max 2090>
+[01-13-2021 21:22:11] [SUCESS] Found NEW product <Tuned 2>
+[01-13-2021 21:22:12] [SUCESS] Found NEW product <1 Mid>
+[01-13-2021 21:23:00] [SUCESS] Found NEW product <Air Max Zephyr>
+[01-13-2021 21:23:05] [SUCESS] Found NEW product <x Sophia Circle Print>
+[01-13-2021 21:23:05] [SUCESS] Found NEW product <Vision Racer X Jaden Smith>
+[01-13-2021 21:23:06] [SUCESS] Found NEW product <Tuned 1 Essential>
+[01-13-2021 21:23:06] [SUCESS] Found NEW product <Clog>
+[01-13-2021 21:23:06] [SUCESS] Found NEW product <Club C X Cardi B>
+[01-13-2021 21:23:07] [SUCESS] Found NEW product <Over The Head>
+[01-13-2021 21:23:07] [SUCESS] Found NEW product <Club C X Cardi B>
+[01-13-2021 21:23:08] [SUCESS] Found NEW product <Tuned 1 Essential Recycled Felt>
+[01-13-2021 21:23:08] [SUCESS] Found NEW product <X CTM Workers>
+[01-13-2021 21:23:08] [SUCESS] Found NEW product <Pharrell Williams NMD Hu>
+[01-13-2021 21:23:09] [SUCESS] Found NEW product <Blazer>
+[01-13-2021 21:23:10] [SUCESS] Found NEW product <LeBron 18>
+[01-13-2021 21:23:10] [SUCESS] Found NEW product <RS-Fast>
+[01-13-2021 21:23:10] [SUCESS] Found NEW product <Air Max 90 Essential>
+[01-13-2021 21:23:10] [SUCESS] Found NEW product <Air Max 90 Essential Recycled Felt>
+[01-13-2021 21:23:11] [SUCESS] Found NEW product <Dunk Low>
+[01-13-2021 21:23:12] [SUCESS] Found NEW product <Xx9 ''Play Off Pack''>
+[01-13-2021 21:23:12] [SUCESS] Found NEW product <Tuned 1 Essential>
+[01-13-2021 21:23:12] [SUCESS] Found NEW product <Over The Head>
+[01-13-2021 21:23:13] [SUCESS] Found NEW product <Superstar>
+[01-13-2021 21:23:14] [SUCESS] Found NEW product <Embiid 1>
+[01-13-2021 21:23:14] [SUCESS] Found NEW product <LeBron 18>
+[01-13-2021 21:23:15] [SUCESS] Found NEW product <Long Sleeve>
+[01-13-2021 21:23:15] [SUCESS] Found NEW product <Air Max 2090>
+[01-13-2021 21:23:15] [SUCESS] Found NEW product <X Sophia Foot Print>
+[01-13-2021 21:23:16] [SUCESS] Found NEW product <Air Max 95 Essential Recycled Felt>
+[01-13-2021 21:23:16] [SUCESS] Found NEW product <Future Rider>
+[01-13-2021 21:23:17] [SUCESS] Found NEW product <Tech Fleece Cuffed>
+[01-13-2021 21:23:17] [SUCESS] Found NEW product <Fog 5950>
+[01-13-2021 21:24:00] [SUCESS] Found NEW product <Rs-dreamer Low>
+[01-13-2021 21:24:00] [SUCESS] Found NEW product <Club C Kung Fu Panda>
+[01-13-2021 21:24:00] [SUCESS] Found NEW product <Superstar Arizona>
+[01-13-2021 21:24:01] [SUCESS] Found NEW product <3 Retro>
+[01-13-2021 21:24:01] [SUCESS] Found NEW product <LeBron 18>
+[01-13-2021 21:24:02] [SUCESS] Found NEW product <Air Force 1 High>
+[01-13-2021 21:24:03] [SUCESS] Found NEW product <Tuned 3>
+[01-13-2021 21:24:03] [SUCESS] Found NEW product <x CTM Peace>
+[01-13-2021 21:24:03] [SUCESS] Found NEW product <Ultraboost>
+[01-13-2021 21:24:03] [SUCESS] Found NEW product <Shortsleeve>
+[01-13-2021 21:24:04] [SUCESS] Found NEW product <Why Not Zer0.4>
+[01-13-2021 21:24:05] [SUCESS] Found NEW product <Ultraboost 4D>
+[01-13-2021 21:24:05] [SUCESS] Found NEW product <X LDG>
+[01-13-2021 21:24:05] [SUCESS] Found NEW product <Club C Kung Fu Panda>
+[01-13-2021 21:24:05] [SUCESS] Found NEW product <Air Total Max Uptempo>
+[01-13-2021 21:24:07] [SUCESS] Found NEW product <Vision Racer X Jaden Smith>
+[01-13-2021 21:24:07] [SUCESS] Found NEW product <35>
+[01-13-2021 21:24:07] [SUCESS] Found NEW product <Tuned 1 Essential>
+[01-13-2021 21:24:07] [SUCESS] Found NEW product <7 Retro>
+[01-13-2021 21:24:08] [SUCESS] Found NEW product <Vision Racer>
+[01-13-2021 21:24:09] [SUCESS] Found NEW product <Curry 8>
+[01-13-2021 21:24:09] [SUCESS] Found NEW product <Air Max 2090>
+[01-13-2021 21:24:10] [SUCESS] Found NEW product <Dunk Low>
+[01-13-2021 21:24:10] [SUCESS] Found NEW product <ZX 2K Boost>
+[01-13-2021 21:24:10] [SUCESS] Found NEW product <Over The Head>
+[01-13-2021 21:24:11] [SUCESS] Found NEW product <Prjct Rock>
+[01-13-2021 21:24:11] [SUCESS] Found NEW product <Memphis Morant City Edition Swingman Jersey>
+[01-13-2021 21:24:11] [SUCESS] Found NEW product <Curry 8>
+[01-13-2021 21:24:12] [SUCESS] Found NEW product <4 Retro>
+[01-13-2021 21:24:12] [SUCESS] Found NEW product <Miami Heat City Edition Over The Head>
+[01-13-2021 21:25:00] [SUCESS] Found NEW product <Club Double Coated>
+[01-13-2021 21:25:00] [SUCESS] Found NEW product <Club Double Coated>
+[01-13-2021 21:25:01] [SUCESS] Found NEW product <Embiid 1>
+[01-13-2021 21:25:01] [SUCESS] Found NEW product <Los Angelos Lakers City Edition>
+[01-13-2021 21:25:01] [SUCESS] Found NEW product <Air Force 1 Gore-Tex>
+[01-13-2021 21:25:02] [SUCESS] Found NEW product <327 X Levis>
+[01-13-2021 21:25:03] [SUCESS] Found NEW product <Club C>
+[01-13-2021 21:25:03] [SUCESS] Found NEW product <Kyrie 7>
+[01-13-2021 21:25:03] [SUCESS] Found NEW product <Dunk Low>
+[01-13-2021 21:25:04] [SUCESS] Found NEW product <Air Force 1>
+[01-13-2021 21:25:04] [SUCESS] Found NEW product <Ambassador Vii>
+[01-13-2021 21:25:05] [SUCESS] Found NEW product <Chicago Bulls City Edition>
+[01-13-2021 21:25:05] [SUCESS] Found NEW product <Zoom Air Fire>
+[01-13-2021 21:25:05] [SUCESS] Found NEW product <Air Flight 89>
+[01-13-2021 21:25:05] [SUCESS] Found NEW product <Air Max 2090>
+[01-13-2021 21:25:07] [SUCESS] Found NEW product <Vision Racer X Jaden Smith>
+[01-13-2021 21:25:07] [SUCESS] Found NEW product <Pro Model>
+[01-13-2021 21:25:07] [SUCESS] Found NEW product <Gel Lyte III>
+[01-13-2021 21:25:08] [SUCESS] Found NEW product <X CTM Globe>
+[01-13-2021 21:25:08] [SUCESS] Found NEW product <M2Z>
+[01-13-2021 21:25:09] [SUCESS] Found NEW product <327 X Levis>
+[01-13-2021 21:25:09] [SUCESS] Found NEW product <Air Force 1 Low>
+[01-13-2021 21:25:09] [SUCESS] Found NEW product <Shine Half Zip Funnel>
+[01-13-2021 21:25:09] [SUCESS] Found NEW product <Curry 8>
+[01-13-2021 21:25:10] [SUCESS] Found NEW product <Rs-dreamer Mid>
+[01-13-2021 21:25:11] [SUCESS] Found NEW product <X CTM Workers>
+[01-13-2021 21:25:11] [SUCESS] Found NEW product <Dunk High>
+[01-13-2021 21:25:11] [SUCESS] Found NEW product <Air Zoom Type Recycled Felt>
+[01-13-2021 21:25:12] [SUCESS] Found NEW product <1 Retro High>
+[01-13-2021 21:25:12] [SUCESS] Found NEW product <Delta>
+[01-13-2021 21:26:00] [SUCESS] Found NEW product <Miami Heat City Edition>
+[01-13-2021 21:26:01] [SUCESS] Found NEW product <Air Max Zephyr>
+[01-13-2021 21:26:01] [SUCESS] Found NEW product <Lebron 18 Low>
+[01-13-2021 21:26:01] [SUCESS] Found NEW product <X CTM Guardians>
+[01-13-2021 21:26:01] [SUCESS] Found NEW product <Blazer Mid Recycled Felt>
+[01-13-2021 21:26:02] [SUCESS] Found NEW product <1 Low>
+[01-13-2021 21:26:03] [SUCESS] Found NEW product <Air Zoom Type Recycled Felt>
+[01-13-2021 21:26:03] [SUCESS] Found NEW product <Air Force 1 Low>
+[01-13-2021 21:26:03] [SUCESS] Found NEW product <Club C X Cardi B>
+[01-13-2021 21:26:03] [SUCESS] Found NEW product <Tuned 1 Essential Recycled Felt>
+[02-01-2021 15:41:08] [INFO] 1 proxies loaded.
+[02-01-2021 15:41:08] [INFO] Start Footlocker Calendar monitoring
+[02-01-2021 15:41:10] [SUCESS] Found NEW product <Chuck Taylor All Star>
+[02-01-2021 15:41:10] [SUCESS] Found NEW product <Dunk Low>
+[02-01-2021 15:41:10] [SUCESS] Found NEW product <Classic Leather Peppa Pig>
+[02-01-2021 15:41:11] [SUCESS] Found NEW product <1 Mid>
+[02-01-2021 15:41:11] [SUCESS] Found NEW product <X PSG>
+[02-01-2021 15:41:11] [SUCESS] Found NEW product <Air Force 1 Low>
+[02-01-2021 15:41:12] [SUCESS] Found URL CHANGED product <Tuned 1>
+[02-01-2021 15:41:13] [SUCESS] Found IMAGE CHANGED product <Future Rider>
+[02-01-2021 15:41:18] [SUCESS] Found NEW product <Psg>
+[02-01-2021 15:41:18] [SUCESS] Found NEW product <Psg Over The Head>
+[02-01-2021 15:41:18] [SUCESS] Found IMAGE CHANGED product <Superstar Arizona>
+[02-01-2021 15:41:19] [SUCESS] Found NEW product <X PSG>
+[02-01-2021 15:41:19] [SUCESS] Found URL CHANGED product <Tuned 1>
+[02-01-2021 15:41:20] [SUCESS] Found NEW product <Air 1 High>
+[02-01-2021 15:41:20] [SUCESS] Found NEW product <Air Max Zephyr>
+[02-01-2021 15:41:21] [SUCESS] Found NEW product <Jordan Retro 9>
+[02-01-2021 15:41:21] [SUCESS] Found NEW product <Air Flight 89>
+[02-01-2021 15:41:21] [SUCESS] Found NEW product <Delta>
+[02-01-2021 15:41:22] [SUCESS] Found IMAGE CHANGED product <Street Rider>
+[02-01-2021 15:41:23] [SUCESS] Found NEW product <PG 5>
+[02-01-2021 15:41:23] [SUCESS] Found NEW product <Psg>
+[02-01-2021 15:41:23] [SUCESS] Found IMAGE CHANGED product <Club C Double Coated>
+[02-01-2021 15:41:23] [SUCESS] Found NEW product <Club C Peppa Pig>
+[02-01-2021 15:41:25] [SUCESS] Found NEW product <Tech Pack Jogger Cuffed>
+[02-01-2021 15:41:25] [SUCESS] Found NEW product <Tech Fleece>
+[02-01-2021 15:41:26] [SUCESS] Found NEW product <1 Retro High OG>
+[02-01-2021 15:41:26] [SUCESS] Found NEW product <1 Retro High>
+[02-01-2021 15:41:26] [SUCESS] Found NEW product <Club C Peppa Pig>
+[02-01-2021 15:41:26] [SUCESS] Found NEW product <Space Hippie 04>
+[02-01-2021 15:41:27] [SUCESS] Found IMAGE CHANGED product <M2Z>
+[02-01-2021 15:41:32] [SUCESS] Found NEW product <Psg Wordmark>
+[02-01-2021 15:42:11] [SUCESS] Found NEW product <Psg Logo>
+[02-01-2021 15:42:11] [SUCESS] Found NEW product <3 Retro>
+[02-01-2021 15:42:11] [SUCESS] Found NEW product <Tuned 1>
+[02-01-2021 15:42:11] [SUCESS] Found NEW product <Forum>
+[02-01-2021 15:42:12] [SUCESS] Found NEW product <1 High Strap>
+[02-01-2021 15:42:13] [SUCESS] Found NEW product <Tuned 2>
+[02-01-2021 15:42:13] [SUCESS] Found IMAGE CHANGED product <Club C X Cardi B>
+[02-01-2021 15:42:13] [SUCESS] Found NEW product <Space Hippie>
+[02-01-2021 15:42:14] [SUCESS] Found NEW product <Psg 23Engineered>
+[02-01-2021 15:42:14] [SUCESS] Found NEW product <HOVR Phantom 2>
+[02-01-2021 15:42:15] [SUCESS] Found NEW product <Dunk Low>
+[02-01-2021 15:42:15] [SUCESS] Found NEW product <Tuned 1 Essential>
+[02-01-2021 15:42:15] [SUCESS] Found NEW product <Muse 2 Satin Strap>
+[02-01-2021 15:42:15] [SUCESS] Found NEW product <Zx 2K Boost Pure>
+[02-01-2021 15:42:16] [SUCESS] Found NEW product <Kobe VI Protro>
+[02-01-2021 15:42:17] [SUCESS] Found NEW product <Aj6>
+[02-01-2021 15:42:17] [SUCESS] Found NEW product <1 Zoom Comfort>
+[02-01-2021 15:42:17] [SUCESS] Found NEW product <Psg Over The Head>
+[02-01-2021 15:42:18] [SUCESS] Found NEW product <X PSG>
+[02-01-2021 15:42:18] [SUCESS] Found IMAGE CHANGED product <Long Sleeve>
+[02-01-2021 15:42:19] [SUCESS] Found NEW product <Retro 6>
+[02-01-2021 15:42:19] [SUCESS] Found NEW product <Dunk Low>
+[02-01-2021 15:42:20] [SUCESS] Found NEW product <Air Max 90 Essential>
+[02-01-2021 15:42:20] [SUCESS] Found IMAGE CHANGED product <Future Rider>
+[02-01-2021 15:42:20] [SUCESS] Found NEW product <Air Jordan 1 Mid>
+[02-01-2021 15:42:21] [SUCESS] Found NEW product <Club C X Cardi B>
+[02-01-2021 15:42:21] [SUCESS] Found NEW product <35>
+[02-01-2021 15:42:22] [SUCESS] Found NEW product <Dunk High>
+[02-01-2021 15:42:22] [SUCESS] Found NEW product <Tuned 1 Essential>
+[02-01-2021 15:42:22] [SUCESS] Found NEW product <Chancletas Hu Bf>
+[02-01-2021 15:43:11] [SUCESS] Found NEW product <ZX 2K Boost>
+[02-01-2021 15:43:11] [SUCESS] Found NEW product <1 Low>
+[02-01-2021 15:43:11] [SUCESS] Found NEW product <RS-X>
+[02-01-2021 15:43:11] [SUCESS] Found IMAGE CHANGED product <Air Total Max Uptempo>
+[02-01-2021 15:43:12] [SUCESS] Found NEW product <Tech Fleece Jogger Cuffed>
+[02-01-2021 15:43:13] [SUCESS] Found NEW product <J Wall March Madness>
+[02-01-2021 15:43:13] [SUCESS] Found NEW product <Tuned 1>
+[02-01-2021 15:43:14] [SUCESS] Found IMAGE CHANGED product <Over The Head>
+[02-01-2021 15:43:14] [SUCESS] Found NEW product <Dunk Low>
+[02-01-2021 15:43:14] [SUCESS] Found NEW product <Psg Wordmark>
+[02-01-2021 15:43:15] [SUCESS] Found NEW product <Psg Cuffed>
+[02-01-2021 15:43:15] [SUCESS] Found NEW product <6 Retro>
+[02-01-2021 15:43:15] [SUCESS] Found NEW product <Psg All Over Print>
+[02-01-2021 15:43:16] [SUCESS] Found IMAGE CHANGED product <M2Z>
+[02-01-2021 15:43:16] [SUCESS] Found NEW product <Retro 6>
+[02-01-2021 15:43:17] [SUCESS] Found NEW product <Tarther Blast>
+[02-01-2021 15:43:17] [SUCESS] Found NEW product <Rs-dreamer Low>
+[02-01-2021 15:43:18] [SUCESS] Found NEW product <Kyrie 7>
+[02-01-2021 15:43:18] [SUCESS] Found NEW product <Cl Legacy>
+[02-01-2021 15:43:18] [SUCESS] Found NEW product <Harden V5>
+[02-01-2021 15:43:19] [SUCESS] Found NEW product <HOVR Phantom 2>
+[02-01-2021 15:43:20] [SUCESS] Found NEW product <Zx 2K Boost Pure>
+[02-01-2021 15:43:20] [SUCESS] Found NEW product <Club C Legacy>
+[02-01-2021 15:43:20] [SUCESS] Found NEW product <6 Retro>
+[02-01-2021 15:43:20] [SUCESS] Found IMAGE CHANGED product <Lebron 12 "Data">
+[02-01-2021 15:43:21] [SUCESS] Found NEW product <Psg Long Sleeve>
+[02-01-2021 15:43:22] [SUCESS] Found NEW product <X PSG>
+[02-01-2021 15:43:22] [SUCESS] Found NEW product <Tuned 1>
+[02-01-2021 15:43:22] [SUCESS] Found NEW product <Tuned 1 Essential>
+[02-01-2021 15:43:23] [SUCESS] Found URL & IMAGE CHANGED product <Vision Racer X Jaden Smith>
+[02-01-2021 15:44:11] [SUCESS] Found NEW product <Zoom Air Fire>
+[02-01-2021 15:44:11] [SUCESS] Found NEW product <Air Force 1 Mid 07>
+[02-01-2021 15:44:11] [SUCESS] Found NEW product <327>
+[02-01-2021 15:44:12] [SUCESS] Found NEW product <Stan Smith>
+[02-01-2021 15:44:12] [SUCESS] Found IMAGE CHANGED product <Club C X Cardi B>
+[02-01-2021 15:44:13] [SUCESS] Found NEW product <Psg Full Zip>
+[02-01-2021 15:44:13] [SUCESS] Found URL & IMAGE CHANGED product <RS-Dreamer Mid>
+[02-01-2021 15:44:13] [SUCESS] Found IMAGE CHANGED product <Air Force 1 Flyknit Low>
+[02-01-2021 15:44:14] [SUCESS] Found IMAGE CHANGED product <PG 5>
+[02-01-2021 15:44:14] [SUCESS] Found NEW product <Air Force 1 Low>
+[02-01-2021 15:44:15] [SUCESS] Found NEW product <Club C Legacy>
+[02-01-2021 15:44:15] [SUCESS] Found NEW product <Psg 23Engineered>
+[02-01-2021 15:44:16] [SUCESS] Found NEW product <Dunk High>
+[02-01-2021 15:44:16] [SUCESS] Found NEW product <Forum>
+[02-01-2021 15:44:16] [SUCESS] Found NEW product <ZX 2K Boost>
+[02-01-2021 15:44:17] [SUCESS] Found IMAGE CHANGED product <Air Max 2090>
+[02-01-2021 15:44:18] [SUCESS] Found NEW product <Tuned Max 99>
+[02-01-2021 15:44:18] [SUCESS] Found IMAGE CHANGED product <Tuned 3>
+[02-01-2021 15:44:18] [SUCESS] Found NEW product <Club C Peppa Pig>
+[02-01-2021 15:44:19] [SUCESS] Found NEW product <6 Retro>
+[02-01-2021 15:44:19] [SUCESS] Found NEW product <Space Hippie>
+[02-01-2021 15:44:20] [SUCESS] Found NEW product <Cosmic Unity>
+[02-01-2021 15:44:20] [SUCESS] Found IMAGE CHANGED product <Over The Head>
+[02-01-2021 15:44:21] [SUCESS] Found IMAGE CHANGED product <Prjct Rock>
+[02-01-2021 15:44:21] [SUCESS] Found IMAGE CHANGED product <Shortsleeve>
+[02-01-2021 15:44:22] [SUCESS] Found NEW product <1 Retro High OG>
+[02-01-2021 15:44:22] [SUCESS] Found NEW product <Air Flight 89>
+[02-01-2021 15:44:22] [SUCESS] Found IMAGE CHANGED product <Vision Racer X Jaden Smith>
+[02-01-2021 15:44:22] [SUCESS] Found URL & IMAGE CHANGED product <Tuned 1>
+[02-01-2021 15:44:23] [SUCESS] Found NEW product <X PSG>
+[02-01-2021 15:45:11] [SUCESS] Found IMAGE CHANGED product <Over The Head>
+[02-01-2021 15:45:11] [SUCESS] Found NEW product <Rs-dreamer Mid>
+[02-01-2021 15:45:12] [SUCESS] Found IMAGE CHANGED product <Club C X Cardi B>
+[02-01-2021 15:45:12] [SUCESS] Found NEW product <Air Total Max Uptempo>
+[02-01-2021 15:45:12] [SUCESS] Found NEW product <Dunk High>
+[02-01-2021 15:45:13] [SUCESS] Found NEW product <Space Hippie 04>
+[02-01-2021 15:45:13] [SUCESS] Found NEW product <Club C Legacy>
+[02-01-2021 15:45:14] [SUCESS] Found IMAGE CHANGED product <RS-Fast>
+[02-01-2021 15:45:14] [SUCESS] Found IMAGE CHANGED product <Air Max 90 Essential Recycled Felt>
+[02-01-2021 15:45:14] [SUCESS] Found NEW product <Psg>
+[02-01-2021 15:45:15] [SUCESS] Found NEW product <1 Retro High>
+[02-01-2021 15:45:16] [SUCESS] Found NEW product <Zoom Air Fire>
+[02-01-2021 15:45:16] [SUCESS] Found NEW product <Aj6 Long Sleeve>
+[02-01-2021 15:45:16] [SUCESS] Found NEW product <Cosmic Unity>
+[02-01-2021 15:45:16] [SUCESS] Found NEW product <Teck Fleece Full Zip>
+[02-01-2021 15:45:18] [SUCESS] Found NEW product <Curry 8>
+[02-01-2021 15:45:18] [SUCESS] Found NEW product <1 Zoom Comfort>
+[02-01-2021 15:45:18] [SUCESS] Found NEW product <Dunk Low>
+[02-01-2021 15:45:18] [SUCESS] Found NEW product <Psg Long Sleeve>
+[02-01-2021 15:45:19] [SUCESS] Found IMAGE CHANGED product <Superstar Arizona>
+[02-01-2021 15:45:20] [SUCESS] Found NEW product <Air Force 1 React>
+[02-01-2021 15:45:20] [SUCESS] Found NEW product <Dunk Low>
+[02-01-2021 15:45:20] [SUCESS] Found IMAGE CHANGED product <LeBron 18>
+[02-01-2021 15:45:20] [SUCESS] Found URL CHANGED product <X Sophia Circle Print>
+[02-01-2021 15:45:21] [SUCESS] Found NEW product <Air Force 1 Low>
+[02-01-2021 15:45:22] [SUCESS] Found IMAGE CHANGED product <Tuned 3>
+[02-01-2021 15:45:22] [SUCESS] Found NEW product <Embiid>
+[02-01-2021 15:45:23] [SUCESS] Found URL CHANGED product <Ultra Boost 4D>
+[02-01-2021 15:45:23] [SUCESS] Found NEW product <Tech Fleece Full Zip>
+[02-01-2021 15:45:23] [SUCESS] Found IMAGE CHANGED product <Vision Racer X Jaden Smith>
+[02-01-2021 15:46:11] [SUCESS] Found NEW product <Dunk Low>
+[02-01-2021 15:46:12] [SUCESS] Found URL CHANGED product <Tuned 1>
+[02-01-2021 15:46:12] [SUCESS] Found NEW product <3 Retro>
+[02-01-2021 15:46:12] [SUCESS] Found URL CHANGED product <Curry 8>
+[02-01-2021 15:46:12] [SUCESS] Found NEW product <Cali Star>
+[02-01-2021 15:46:13] [SUCESS] Found IMAGE CHANGED product <Club Double Coated>
+[02-01-2021 15:46:14] [SUCESS] Found NEW product <Club>
+[02-01-2021 15:46:14] [SUCESS] Found IMAGE CHANGED product <Club Double Coated>
+[02-01-2021 15:46:14] [SUCESS] Found IMAGE CHANGED product <1 Mid>
+[02-01-2021 15:46:14] [SUCESS] Found NEW product <Tuned 1>
+[02-01-2021 15:46:16] [SUCESS] Found NEW product <X PSG>
+[02-01-2021 15:46:16] [SUCESS] Found NEW product <Forum>
+[02-01-2021 15:46:16] [SUCESS] Found IMAGE CHANGED product <Air Max 2090>
+[02-01-2021 15:46:16] [SUCESS] Found NEW product <Dunk Low>
+[02-01-2021 15:46:17] [SUCESS] Found NEW product <Psg>
+[02-01-2021 15:46:18] [SUCESS] Found IMAGE CHANGED product <Vision Racer X Jaden Smith>
+[02-01-2021 15:46:18] [SUCESS] Found NEW product <Curry 8>
+[02-01-2021 15:46:18] [SUCESS] Found NEW product <Tuned 1 Essential>
+[02-01-2021 15:46:19] [SUCESS] Found NEW product <Zoom Freak 2>
+[02-01-2021 15:46:19] [SUCESS] Found NEW product <Air 1 High>
+[02-01-2021 15:46:20] [SUCESS] Found IMAGE CHANGED product <Air Zoom Type Recycled Felt>
+[02-01-2021 15:46:20] [SUCESS] Found NEW product <Psg Logo>
+[02-01-2021 15:46:20] [SUCESS] Found URL & IMAGE CHANGED product <Embiid>
+[02-01-2021 15:46:21] [SUCESS] Found NEW product <PG 5>
+[02-01-2021 15:46:21] [SUCESS] Found NEW product <Tech Fleece>
+[02-01-2021 15:46:22] [SUCESS] Found NEW product <Retro 6>
+[02-01-2021 15:46:22] [SUCESS] Found NEW product <Aj6 Over The Head>
+[02-01-2021 15:46:23] [SUCESS] Found NEW product <Club C Legacy>
+[02-01-2021 15:46:23] [SUCESS] Found NEW product <Tuned 1>
+[02-01-2021 15:46:23] [SUCESS] Found NEW product <Dunk High>
+[02-01-2021 15:47:12] [SUCESS] Found NEW product <Club Cuffed>
+[02-01-2021 15:47:12] [SUCESS] Found IMAGE CHANGED product <Air Zoom Type Recycled Felt>
+[02-01-2021 15:47:12] [SUCESS] Found IMAGE CHANGED product <Club C X Cardi B>
+[02-01-2021 15:47:12] [SUCESS] Found NEW product <Dunk Low>
+[02-01-2021 16:47:13] [INFO] Start Footlocker Calendar monitoring
+[02-01-2021 17:47:18] [INFO] Start Footlocker Calendar monitoring
+[02-01-2021 18:47:20] [INFO] Start Footlocker Calendar monitoring
+[02-01-2021 19:47:26] [INFO] Start Footlocker Calendar monitoring
+[02-01-2021 20:47:28] [INFO] Start Footlocker Calendar monitoring
+[02-01-2021 21:47:32] [INFO] Start Footlocker Calendar monitoring
+[02-01-2021 22:47:36] [INFO] Start Footlocker Calendar monitoring
+[02-01-2021 23:47:38] [INFO] Start Footlocker Calendar monitoring
+[02-02-2021 00:47:51] [INFO] Start Footlocker Calendar monitoring
+[02-02-2021 01:47:54] [INFO] Start Footlocker Calendar monitoring
+[02-02-2021 02:47:58] [INFO] Start Footlocker Calendar monitoring
+[02-02-2021 03:48:00] [INFO] Start Footlocker Calendar monitoring
+[02-02-2021 04:48:03] [INFO] Start Footlocker Calendar monitoring
+[02-02-2021 05:48:05] [INFO] Start Footlocker Calendar monitoring
+[02-02-2021 06:48:12] [INFO] Start Footlocker Calendar monitoring
+[02-02-2021 07:48:14] [INFO] Start Footlocker Calendar monitoring
+[02-03-2021 20:33:58] [SUCESS] Found NEW product <Why Not Zer0.4>
+[04-06-2021 23:27:40] [INFO] 1 proxies loaded.
+[04-06-2021 23:27:40] [INFO] Start Footlocker Calendar monitoring
+[04-06-2021 23:27:48] [SUCESS] Found NEW product <Air Vapormax Evo>
+[04-06-2021 23:27:49] [SUCESS] Found NEW product <Air Force 1 Low>
+[04-06-2021 23:27:49] [SUCESS] Found NEW product <Gel Venture 7 Studio>
+[04-06-2021 23:27:49] [SUCESS] Found NEW product <Street Rider Festivals>
+[04-06-2021 23:27:50] [SUCESS] Found NEW product <Max Genome>
+[04-06-2021 23:27:50] [SUCESS] Found NEW product <Crater Impact>
+[04-06-2021 23:27:51] [SUCESS] Found NEW product <Tattoo Over The Head>
+[04-06-2021 23:27:51] [SUCESS] Found NEW product <Speedcross 3>
+[04-06-2021 23:27:52] [SUCESS] Found NEW product <Air Max 270>
+[04-06-2021 23:27:52] [SUCESS] Found NEW product <Cruise Rider>
+[04-06-2021 23:27:52] [SUCESS] Found NEW product <Tuned 3>
+[04-06-2021 23:27:53] [SUCESS] Found NEW product <Cali Sport>
+[04-06-2021 23:27:53] [SUCESS] Found NEW product <Hedra>
+[04-06-2021 23:27:54] [SUCESS] Found NEW product <Ss21 Shortsleeve>
+[04-06-2021 23:27:54] [SUCESS] Found NEW product <Sportswear>
+[04-06-2021 23:27:54] [SUCESS] Found NEW product <Air Force 1 Low>
+[04-06-2021 23:27:55] [SUCESS] Found NEW product <Crater Impact>
+[04-06-2021 23:27:56] [SUCESS] Found NEW product <Space Hippie 04>
+[04-06-2021 23:27:56] [SUCESS] Found NEW product <Ss21 Out Over The Head>
+[04-06-2021 23:27:56] [SUCESS] Found NEW product <Blazer Mid>
+[04-06-2021 23:27:57] [SUCESS] Found NEW product <Zion>
+[04-06-2021 23:27:57] [SUCESS] Found NEW product <Am Genome>
+[04-06-2021 23:27:58] [SUCESS] Found NEW product <Kyrie 7>
+[04-06-2021 23:27:58] [SUCESS] Found NEW product <Kyrie 7>
+[04-06-2021 23:27:58] [SUCESS] Found NEW product <5740>
+[04-06-2021 23:27:59] [SUCESS] Found NEW product <Orchestra Hi>
+[04-06-2021 23:28:00] [SUCESS] Found NEW product <Vision Racer>
+[04-06-2021 23:28:00] [SUCESS] Found NEW product <Disc Rebirth>
+[04-06-2021 23:28:00] [SUCESS] Found NEW product <Rival Knockout>
+[04-06-2021 23:28:00] [SUCESS] Found NEW product <Dunk Low>
+[04-06-2021 23:28:01] [SUCESS] Found NEW product <Z-code>
+[04-06-2021 23:28:49] [SUCESS] Found NEW product <Logo>
+[04-06-2021 23:28:49] [SUCESS] Found NEW product <Embiid>
+[04-06-2021 23:28:50] [SUCESS] Found NEW product <Air Force 1 Low>
+[04-06-2021 23:28:50] [SUCESS] Found NEW product <Kawhi-signature 1>
+[04-06-2021 23:28:50] [SUCESS] Found NEW product <327>
+[04-06-2021 23:28:51] [SUCESS] Found NEW product <1 Low>
+[04-06-2021 23:28:52] [SUCESS] Found NEW product <RS-Dreamer Mid>
+[04-06-2021 23:28:52] [SUCESS] Found NEW product <Disc Blaze Og 1993 The List>
+[04-06-2021 23:28:52] [SUCESS] Found NEW product <Delta>
+[04-06-2021 23:28:52] [SUCESS] Found NEW product <Air Force 1Low>
+[04-06-2021 23:28:53] [SUCESS] Found NEW product <Sportswear>
+[04-06-2021 23:28:54] [SUCESS] Found NEW product <Stan Smith Primegreen>
+[04-06-2021 23:28:54] [SUCESS] Found NEW product <Rse V2>
+[04-06-2021 23:28:54] [SUCESS] Found NEW product <Retro 5>
+[04-06-2021 23:28:55] [SUCESS] Found NEW product <Crater Impact>
+[04-06-2021 23:28:56] [SUCESS] Found NEW product <Max 95 Premium>
+[04-06-2021 23:28:56] [SUCESS] Found NEW product <Dunk Low>
+[04-06-2021 23:28:56] [SUCESS] Found NEW product <Club C Cardi>
+[04-06-2021 23:28:56] [SUCESS] Found NEW product <Dunk Low>
+[04-06-2021 23:28:57] [SUCESS] Found NEW product <Zx Flux Mesh>
+[04-06-2021 23:28:58] [SUCESS] Found NEW product <MA2>
+[04-06-2021 23:28:58] [SUCESS] Found NEW product <Linea Up & Down>
+[04-06-2021 23:28:58] [SUCESS] Found NEW product <4 Retro>
+[04-06-2021 23:28:59] [SUCESS] Found NEW product <Cuffed>
+[04-06-2021 23:29:00] [SUCESS] Found NEW product <Dunk Low>
+[04-06-2021 23:29:00] [SUCESS] Found NEW product <Rival Oversized Graphic>
+[04-06-2021 23:29:00] [SUCESS] Found NEW product <Rs-dreamer Low>
+[04-06-2021 23:29:00] [SUCESS] Found NEW product <Air Force 1 React>
+[04-06-2021 23:29:01] [SUCESS] Found NEW product <BYW 2.0>
+[04-06-2021 23:29:01] [SUCESS] Found NEW product <Air Vapormax Evo>
+[04-06-2021 23:29:49] [SUCESS] Found NEW product <Air Force 1 Low>
+[04-06-2021 23:29:50] [SUCESS] Found NEW product <11 Low>
+[04-06-2021 23:29:50] [SUCESS] Found NEW product <Chancletas Hu Bf>
+[04-06-2021 23:29:51] [SUCESS] Found NEW product <Mayze Platform>
+[04-06-2021 23:29:51] [SUCESS] Found NEW product <Tuned 1>
+[04-06-2021 23:29:51] [SUCESS] Found NEW product <Max Genome>
+[04-06-2021 23:29:52] [SUCESS] Found NEW product <Air Force 1>
+[04-06-2021 23:29:53] [SUCESS] Found NEW product <Future Rider>
+[04-06-2021 23:29:53] [SUCESS] Found NEW product <Waffle One>
+[04-06-2021 23:29:53] [SUCESS] Found NEW product <Boxed All Athletes>
+[04-06-2021 23:29:54] [SUCESS] Found NEW product <Tuned 1>
+[04-06-2021 23:29:54] [SUCESS] Found NEW product <237>
+[04-06-2021 23:29:55] [SUCESS] Found NEW product <Dunk High>
+[04-06-2021 23:29:55] [SUCESS] Found NEW product <Af Storm Cuffed>
+[04-06-2021 23:29:55] [SUCESS] Found NEW product <Air Max 90 Breathe>
+[04-06-2021 23:29:56] [SUCESS] Found NEW product <Sk8-Hi Stacked>
+[04-06-2021 23:29:56] [SUCESS] Found NEW product <Tuned 3>
+[04-06-2021 23:29:56] [SUCESS] Found NEW product <Ss21 Shortsleeve>
+[04-06-2021 23:29:57] [SUCESS] Found NEW product <Stan Smith Primegreen>
+[04-06-2021 23:29:57] [SUCESS] Found NEW product <PG 5>
+[04-06-2021 23:29:58] [SUCESS] Found NEW product <Dunk Low>
+[04-06-2021 23:29:58] [SUCESS] Found NEW product <Answer Iv>
+[04-06-2021 23:29:58] [SUCESS] Found NEW product <Stan Smith Primegreen>
+[04-06-2021 23:29:59] [SUCESS] Found NEW product <1 Retro High>
+[04-06-2021 23:29:59] [SUCESS] Found NEW product <Originals>
+[04-06-2021 23:30:00] [SUCESS] Found NEW product <Jumpman Over The Head>
+[04-06-2021 23:30:00] [SUCESS] Found NEW product <MA2>
+[04-06-2021 23:30:01] [SUCESS] Found NEW product <Waffle One>
+[04-06-2021 23:30:01] [SUCESS] Found NEW product <Club C>
+[04-06-2021 23:30:02] [SUCESS] Found NEW product <Ultraboost 21>
+[04-06-2021 23:30:50] [SUCESS] Found NEW product <Gel Lyte 33>
+[04-06-2021 23:30:50] [SUCESS] Found NEW product <Blazer Mid>
+[04-06-2021 23:30:50] [SUCESS] Found NEW product <1 Mid>
+[04-06-2021 23:30:50] [SUCESS] Found NEW product <Club C Revenge>
+[04-06-2021 23:30:51] [SUCESS] Found NEW product <237>
+[04-06-2021 23:30:52] [SUCESS] Found NEW product <RS-Dreamer Mid>
+[04-06-2021 23:30:52] [SUCESS] Found NEW product <Shortsleeve>
+[04-06-2021 23:30:52] [SUCESS] Found NEW product <Xt-6>
+[04-06-2021 23:30:53] [SUCESS] Found NEW product <Tuned 1>
+[04-06-2021 23:30:53] [SUCESS] Found NEW product <Orchestra Lo>
+[04-06-2021 23:30:54] [SUCESS] Found NEW product <Dunk Low>
+[04-06-2021 23:30:54] [SUCESS] Found NEW product <Superstar>
+[04-06-2021 23:30:54] [SUCESS] Found NEW product <Dunk Low>
+[04-06-2021 23:30:55] [SUCESS] Found NEW product <MA2>
+[04-06-2021 23:30:55] [SUCESS] Found NEW product <Crater Impact>
+[04-06-2021 23:30:56] [SUCESS] Found NEW product <Linea Up & Down>
+[04-06-2021 23:30:56] [SUCESS] Found NEW product <Space Hippie>
+[04-06-2021 23:30:57] [SUCESS] Found NEW product <RS-Dreamer>
+[04-06-2021 23:30:57] [SUCESS] Found NEW product <Tuned 1>
+[04-06-2021 23:30:57] [SUCESS] Found NEW product <LeBron 18>
+[04-06-2021 23:30:58] [SUCESS] Found NEW product <Stan Smith Primegreen>
+[04-06-2021 23:30:59] [SUCESS] Found NEW product <Dunk Low>
+[04-06-2021 23:30:59] [SUCESS] Found NEW product <Nb 550>
+[04-06-2021 23:30:59] [SUCESS] Found NEW product <35>
+[04-06-2021 23:30:59] [SUCESS] Found NEW product <WB-01>
+[04-06-2021 23:31:01] [SUCESS] Found NEW product <Air Force 1 Low>
+[04-06-2021 23:31:01] [SUCESS] Found NEW product <Tattoo Shortsleeve>
+[04-06-2021 23:31:01] [SUCESS] Found NEW product <Tuned 1 Essential>
+[04-06-2021 23:31:01] [SUCESS] Found NEW product <Air Max Genome>
+[04-06-2021 23:31:02] [SUCESS] Found NEW product <Embiid>

@@ -1,0 +1,57 @@
+{
+    "post_webhooks_url" : "https://discordapp.com/api/webhooks/608431199081201665/OAPPlhlqpA9Nxuhx3_5Ksxhl2zG_KjwO6OpFLvT4hThY61Cskhb-ffwo_4jnmoitAuWQ",
+    "tagged_webhooks_url" : "https://discordapp.com/api/webhooks/709979757390987325/iDS3wXu4WVj01TubPPPJVlLCP5XDP2bvgz0qDTasvTmxwhh98ziAJ3ZZC1gHAbV939bT",
+    "hashtag_webhooks_url" : "https://discordapp.com/api/webhooks/608431515881308276/KIG--Oe5N0E4m_oTj0JDCDs5lynSAGz2uVtxLkRG-Oz-vhi5172BR1742XqiiOzusFED",
+    "story_webhooks_url" : "https://discordapp.com/api/webhooks/608431351007543336/Zl8yskMYnNtpje8qf67ESp62d3bWEzf9e90V2a1ssPxKIkhgfGafAKwMfCrMSFLy-Nll",
+    "offspringhq_webhooks_url" : "https://discordapp.com/api/webhooks/608832521353953307/CrTEzjtbqG-YsUWJKyBCer9kXdYo9Han1VfUQn5PZdVDoVhUldbiKMPXo9AT5de10vWr",
+    "offspringhq_story_webhooks_url" : "https://discordapp.com/api/webhooks/608833030731333634/pyCyAC5X885c7TH9Dlz2wl45u-3gaNiSqoDDRd1xSjYom_dkGod1qSaIDGWsxEd_FeeK",
+    "alert_webhooks_url" : "https://discordapp.com/api/webhooks/619207433025355797/iV0YGESnHQfK51euWXLdidwc3kJ-fS0KWiFgeg9cP4PRlOPv1vEZ95Toh1LxzIyrhdE_",
+    "base_url" : "https://www.instagram.com/",
+    "post_base_url" : "https://www.instagram.com/p/",
+    "hash_tag_base_url" : "https://www.instagram.com/explore/tags/",
+    "login_url" : "https://www.instagram.com/accounts/login/ajax/",
+    "story_base_url" : "https://www.instagram.com/stories/",
+    "stories_url" : "https://www.instagram.com/graphql/query/?query_hash=45246d3fe16ccc6577e0bd297a5db1ab&variables=%7B%22reel_ids%22%3A%5B%22{0}%22%5D%2C%22tag_names%22%3A%5B%5D%2C%22location_ids%22%3A%5B%5D%2C%22highlight_reel_ids%22%3A%5B%5D%2C%22precomposed_overlay%22%3Afalse%7D",
+    "tagged_url" : "https://www.instagram.com/graphql/query/?query_hash=ff260833edf142911047af6024eb634a&variables=%7B%22id%22%3A%22{0}%22%2C%22first%22%3A24%7D",
+    "instagram_icon_url" : "https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png",
+    "moncycle_post_hashtag" : {
+        "monitoring_cycle" : 3,
+        "interval_between_task" : 3,
+        "interval_between_user" : 3
+    },
+    "moncycle_story_tagged" : {
+        "monitoring_cycle" : 3600,
+        "interval_between_task" : 5,
+        "interval_between_user" : 5
+    },
+    "accounts" : [
+        {
+            "login_username": "stonecoldsalah",
+            "login_password" : "Password12345"
+        },
+        {
+            "login_username": "driprelated",
+            "login_password" : "p00p00drip"
+        },
+        {
+            "login_username": "adelinalazareva988",
+            "login_password" : "0tvuGVX9Me"
+        },
+        {
+            "login_username": "elmirapavlova246",
+            "login_password" : "osOrUdsgUu"
+        },
+        {
+            "login_username": "irinasysoeva4287",
+            "login_password" : "oHz4jBXNPn"
+        },
+        {
+            "login_username": "aliiagorbunova579",
+            "login_password" : "gJbXWlB4v4"
+        }
+    ],
+    "account_switching_time_hour" : 5,
+    "dbname": "instagram_posts",
+    "mongodbserver": "mongodb://localhost:27017/",
+    "mongodatabase": "DiscordMonitor"
+}

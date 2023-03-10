@@ -1,0 +1,1078 @@
+[10-01-2019 21:34:53] 	 Get Url:https://rafflelinkz.com/nine/air-jordan-1-high-first-class-flight-20/:503 
+[10-01-2019 21:34:53] 	 Get Url:https://rafflelinkz.com/patta/air-jordan-1-high-first-class-flight-19/:503 
+[10-03-2019 19:35:26] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/fier/nike-sb-dunk-low-ben-g-6/ 
+[10-03-2019 19:35:26] 	 local variable 'response' referenced before assignment 
+[10-04-2019 15:28:14] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /renarts/nike-sb-dunk-low-ben-g-11/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/renarts/nike-sb-dunk-low-ben-g-11/ 
+[10-04-2019 15:28:14] 	 local variable 'response' referenced before assignment 
+[10-04-2019 17:01:58] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /supply/nike-sacai-blazer-mid-black-9/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/supply/nike-sacai-blazer-mid-black-9/ 
+[10-04-2019 17:01:58] 	 local variable 'response' referenced before assignment 
+[10-04-2019 17:04:20] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /renarts/nike-sb-dunk-low-ben-g-11/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/renarts/nike-sb-dunk-low-ben-g-11/ 
+[10-04-2019 17:04:20] 	 local variable 'response' referenced before assignment 
+[10-04-2019 17:21:28] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/focus/nike-sb-dunk-low-ben-g-8/ 
+[10-04-2019 17:21:28] 	 local variable 'response' referenced before assignment 
+[10-04-2019 17:45:30] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /nj/nike-sb-dunk-low-ben-g-9/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:835: The handshake operation timed out',))): https://rafflelinkz.com/nj/nike-sb-dunk-low-ben-g-9/ 
+[10-04-2019 17:45:30] 	 local variable 'response' referenced before assignment 
+[10-05-2019 04:25:24] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/supply/nike-sacai-blazer-mid-black-9/ 
+[10-05-2019 04:25:24] 	 local variable 'response' referenced before assignment 
+[10-05-2019 04:36:33] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /sivasdescalzo/air-jordan-6-travis-scott-olive/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:835: The handshake operation timed out',))): https://rafflelinkz.com/sivasdescalzo/air-jordan-6-travis-scott-olive/ 
+[10-05-2019 04:36:33] 	 local variable 'response' referenced before assignment 
+[10-05-2019 04:42:41] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /sivasdescalzo/air-jordan-6-travis-scott-olive/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:835: The handshake operation timed out',))): https://rafflelinkz.com/sivasdescalzo/air-jordan-6-travis-scott-olive/ 
+[10-05-2019 04:42:41] 	 local variable 'response' referenced before assignment 
+[10-05-2019 04:53:06] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /sivasdescalzo/air-jordan-6-travis-scott-olive/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:835: The handshake operation timed out',))): https://rafflelinkz.com/sivasdescalzo/air-jordan-6-travis-scott-olive/ 
+[10-05-2019 04:53:06] 	 local variable 'response' referenced before assignment 
+[10-05-2019 05:26:05] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /sivasdescalzo/air-jordan-6-travis-scott-olive/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/sivasdescalzo/air-jordan-6-travis-scott-olive/ 
+[10-05-2019 05:26:05] 	 local variable 'response' referenced before assignment 
+[10-05-2019 05:43:33] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /antonia/nike-sacai-blazer-mid-black-white-3/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:835: The handshake operation timed out',))): https://rafflelinkz.com/antonia/nike-sacai-blazer-mid-black-white-3/ 
+[10-05-2019 05:43:33] 	 local variable 'response' referenced before assignment 
+[10-05-2019 06:43:11] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/antonia/nike-sacai-blazer-mid-black-white-3/ 
+[10-05-2019 06:43:11] 	 local variable 'response' referenced before assignment 
+[10-05-2019 06:45:15] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /renarts/nike-sb-dunk-low-ben-g-11/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/renarts/nike-sb-dunk-low-ben-g-11/ 
+[10-05-2019 06:45:15] 	 local variable 'response' referenced before assignment 
+[10-05-2019 06:47:10] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /sivasdescalzo/air-jordan-6-travis-scott-olive/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/sivasdescalzo/air-jordan-6-travis-scott-olive/ 
+[10-05-2019 06:47:10] 	 local variable 'response' referenced before assignment 
+[10-05-2019 07:14:20] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=df7c4805ad5761b6e92cec0b2d0e47482dba5e82-1570256045-0-AbMh54zfurlQT8u5yHUNSgmQkLQ9VFhtNH5Y%2BhrxCp6awlvwx1bF4DMVA1QHUltWQv7k4PhFgS2KURTdIMaa4OFPMBvlbxKkbEnyO3cLLiUzU1lfEQmjS6VCSowxH6bEO%2BEyDhc3SpeKCEQEREZQKAaxNfoK99noLOK8EuBOQUqqOxzSGf5mDKgbtSlxSPIJ1A%3D%3D&jschl_vc=4f231b58bdcb574775b768227a6f0c17&pass=1570256049.32-hx11%2Fg4%2FwQ&jschl_answer=9.1490109564 (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:835: The handshake operation timed out',))): https://rafflelinkz.com/sivasdescalzo/air-jordan-6-travis-scott-olive/ 
+[10-05-2019 07:14:20] 	 local variable 'response' referenced before assignment 
+[10-05-2019 07:19:51] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=00c8c8ff50040ee9bc7ce442ac5b8f0d9bfafad2-1570256376-0-AUqEI3dDelnmnD0KJCXC%2Fj6QK9p4X0MT8jW%2BAatv36jWRla7RAU50E7itpi2IIgwC%2FR7%2FaNmN%2Bv7n2yllF7ANOKztR2VTddn0WkVNKko0iIZ4TUYvB6Iga%2FXgQv5UtypJ2GbkrMZ8FUWPhT65yxp67OOHM95LEyWQulHxsoLBQRo2PNmwf2acwQu70SoUOCetg%3D%3D&jschl_vc=3fa5f871e5973ce936bbfc26b9d5278b&pass=1570256380.582-SUeMkxZ9ku&jschl_answer=25.8598023531 (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/sivasdescalzo/air-jordan-6-travis-scott-olive/ 
+[10-05-2019 07:19:51] 	 local variable 'response' referenced before assignment 
+[10-05-2019 07:40:23] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /sneakersnstuff-la/nike-air-force-1-low-what-the-la/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:835: The handshake operation timed out',))): https://rafflelinkz.com/sneakersnstuff-la/nike-air-force-1-low-what-the-la/ 
+[10-05-2019 07:40:23] 	 local variable 'response' referenced before assignment 
+[10-05-2019 07:54:17] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /berrics/nike-sb-dunk-low-ben-g-12/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/berrics/nike-sb-dunk-low-ben-g-12/ 
+[10-05-2019 07:54:17] 	 local variable 'response' referenced before assignment 
+[10-05-2019 08:29:51] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=bf6711ab8efed1bdbe74ac7b67380fbe3c22cf95-1570260576-0-AUwECLABvToiV%2FnKsnsoYsDQ1pO96M1ls7%2FxMk%2BzYzLtS0H44LSwsYqmQA8F70u8HOyaOsrmEZ9LmMP8D12Fzq5dvy95Sqk%2Fhdq6FH17KDtYnDsJhDKbOajUq61OfnSZMuOf5ZzzbgORC3GEz0g8jpllGGB%2F7Roc%2Ffd3xAt0ReDsHk8QbGnTKcpeyXuWABPu9g%3D%3D&jschl_vc=bbf59321a7512cb15b772255fc3228c6&pass=1570260580.537-2BvsbKWQAU&jschl_answer=15.9767476904 (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:835: The handshake operation timed out',))): https://rafflelinkz.com/sivasdescalzo/air-jordan-6-travis-scott-olive/ 
+[10-05-2019 08:29:51] 	 local variable 'response' referenced before assignment 
+[10-05-2019 08:31:01] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /naked/nike-sacai-blazer-mid-black-white/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:835: The handshake operation timed out',))): https://rafflelinkz.com/naked/nike-sacai-blazer-mid-black-white/ 
+[10-05-2019 08:31:01] 	 local variable 'response' referenced before assignment 
+[10-05-2019 08:45:42] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /sivasdescalzo/air-jordan-6-travis-scott-olive/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:835: The handshake operation timed out',))): https://rafflelinkz.com/sivasdescalzo/air-jordan-6-travis-scott-olive/ 
+[10-05-2019 08:45:42] 	 local variable 'response' referenced before assignment 
+[10-05-2019 08:53:50] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /sivasdescalzo/air-jordan-6-travis-scott-olive/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:835: The handshake operation timed out',))): https://rafflelinkz.com/sivasdescalzo/air-jordan-6-travis-scott-olive/ 
+[10-05-2019 08:53:50] 	 local variable 'response' referenced before assignment 
+[10-05-2019 10:49:33] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /renarts/nike-sb-dunk-low-ben-g-11/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/renarts/nike-sb-dunk-low-ben-g-11/ 
+[10-05-2019 10:49:33] 	 local variable 'response' referenced before assignment 
+[10-07-2019 11:48:50] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=46195d5bfe5981052d38d24bb5d3a1be09dd475d-1570445314-0-ATFbREeFCIhqtjPoywJbfd%2Fm%2F%2BOQhT34EZWJKbr0BpxN%2F4CooxgYHF2ULK5Vqgn1D0BmK304ajMEfHFdvrkWBS0CbOlqAD9awJN56kuXIjT7rjhN8QT52xLsZYmp4sZmRQ6r7DaLkM7hNK94eqekZXA2QwRGa%2BbeDzdqQgq8OHzppl1IAPWcDuvXefB1MU4DvQ%3D%3D&jschl_vc=85f242dbedae7abbd0667f1904b588cb&pass=1570445318.987-9JWM5vJFn1&jschl_answer=25.0797106897 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9ed7ee2780>, 'Connection to 77.75.126.220 timed out. (connect timeout=5)')): https://rafflelinkz.com/sneakersnstuff/air-jordan-6-travis-scott-olive-2/ 
+[10-07-2019 11:48:50] 	 local variable 'response' referenced before assignment 
+[10-07-2019 13:30:58] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sneakersnstuff/air-jordan-6-travis-scott-olive-2/ 
+[10-07-2019 13:30:58] 	 local variable 'response' referenced before assignment 
+[10-07-2019 15:01:41] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sneakersnstuff/air-jordan-6-travis-scott-olive-2/ 
+[10-07-2019 15:01:41] 	 local variable 'response' referenced before assignment 
+[10-07-2019 15:47:20] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sivasdescalzo/air-jordan-6-travis-scott-olive/ 
+[10-07-2019 15:47:20] 	 local variable 'response' referenced before assignment 
+[10-07-2019 17:35:12] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sneakersnstuff/nike-sacai-blazer-mid-black-white-5/ 
+[10-07-2019 17:35:12] 	 local variable 'response' referenced before assignment 
+[10-07-2019 17:50:13] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/kith/nike-sacai-blazer-mid-black-white-11/ 
+[10-07-2019 17:50:13] 	 local variable 'response' referenced before assignment 
+[10-07-2019 18:44:35] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/dsm-los-angeles/nike-sacai-blazer-mid-black-white-13/ 
+[10-07-2019 18:44:35] 	 local variable 'response' referenced before assignment 
+[10-08-2019 03:57:35] 	 Get Url:https://rafflelinkz.com/kith/nike-sacai-blazer-mid-black-white-11/:503 
+[10-08-2019 03:57:36] 	 Get Url:https://rafflelinkz.com/dsm-new-york/nike-tom-sachs-mars-yard-infants/:503 
+[10-08-2019 03:57:36] 	 Get Url:https://rafflelinkz.com/bstn/nike-sacai-blazer-mid-black-white-10/:503 
+[10-08-2019 03:57:36] 	 Get Url:https://rafflelinkz.com/footpatrol/nike-sacai-blazer-mid-black-white-9/:503 
+[10-08-2019 13:59:51] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /end/air-jordan-6-travis-scott-olive-3/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc7d0b70>, 'Connection to 78.157.213.7 timed out. (connect timeout=5)')): https://rafflelinkz.com/end/air-jordan-6-travis-scott-olive-3/ 
+[10-08-2019 13:59:51] 	 local variable 'response' referenced before assignment 
+[10-08-2019 14:06:56] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/shinzo/air-jordan-6-travis-scott-olive-4/ 
+[10-08-2019 14:06:56] 	 local variable 'response' referenced before assignment 
+[10-08-2019 14:09:48] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/dsm-los-angeles/nike-tom-sachs-mars-yard-infants-2/ 
+[10-08-2019 14:09:48] 	 local variable 'response' referenced before assignment 
+[10-08-2019 14:12:00] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/hbx/air-jordan-6-travis-scott-olive-6/ 
+[10-08-2019 14:12:00] 	 local variable 'response' referenced before assignment 
+[10-08-2019 14:15:07] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /one-block-down/air-jordan-6-travis-scott-olive-7/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc741588>, 'Connection to 31.132.1.234 timed out. (connect timeout=5)')): https://rafflelinkz.com/one-block-down/air-jordan-6-travis-scott-olive-7/ 
+[10-08-2019 14:15:07] 	 local variable 'response' referenced before assignment 
+[10-08-2019 14:41:18] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/dsm-los-angeles/nike-sacai-blazer-mid-black-white-13/ 
+[10-08-2019 14:41:18] 	 local variable 'response' referenced before assignment 
+[10-08-2019 15:50:30] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=0e9e08db78b57355131fa73d2bbe2d3f9d0239a4-1570546215-0-AZJDo5v6cqUpNsNuxwZQQmw5YSzGos5CnQWMINVI7CS91fP%2F%2FKbNLxw03eluWRrYcTUt7JPILZq5IuS9mHSiR%2F1x75VDd4br0zDD%2BcwOQxZQR99cwXsAVQOzqSkFNmDnyZ8SZFkaVWH4l%2F2KHWn5rayWDtQq1LLhE6bkjhu2rAK%2Bo4%2BdssQd0SJIExq5ax4QPQ%3D%3D&jschl_vc=93dbcf52d6ae86c3ba95c2e8976cab82&pass=1570546219.251-xPaS7uklul&jschl_answer=18.2471912909 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edca70550>, 'Connection to 31.132.1.244 timed out. (connect timeout=5)')): https://rafflelinkz.com/footpatrol/air-jordan-6-travis-scott-olive-8/ 
+[10-08-2019 15:50:30] 	 local variable 'response' referenced before assignment 
+[10-08-2019 16:40:46] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/one-block-down/nike-sacai-blazer-mid-black-white-15/ 
+[10-08-2019 16:40:46] 	 local variable 'response' referenced before assignment 
+[10-08-2019 17:34:20] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/extra-butter/air-jordan-6-travis-scott-olive-12/ 
+[10-08-2019 17:34:20] 	 local variable 'response' referenced before assignment 
+[10-08-2019 17:42:04] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/one-block-down/nike-sacai-blazer-mid-black-white-15/ 
+[10-08-2019 17:42:04] 	 local variable 'response' referenced before assignment 
+[10-08-2019 17:54:13] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/feature/air-jordan-6-travis-scott-olive-15/ 
+[10-08-2019 17:54:13] 	 local variable 'response' referenced before assignment 
+[10-08-2019 18:02:51] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/feature/air-jordan-6-travis-scott-olive-15/ 
+[10-08-2019 18:02:51] 	 local variable 'response' referenced before assignment 
+[10-08-2019 19:14:56] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=c467cc8122c1a87b3ea3f0bb84388b321fb6b6cf-1570558481-0-Ad3gc4hBdfz6uAwb6rYS%2FAcAQSP0xsgDumyUPCZQlPIH9iH%2B9gYHL2ItKCVpiMUdjT7H4gpJIUGiXAn6w0PlUFwXJanv%2BJnZeS%2FFNVMgBqMOKmFupdfDcE1ggfV62NeMzgAcZbyrVh9dt30XuO3WsPZA8xP1QTk8s3tXIbN6PGvlV1ewtTqTgk82VxlI%2F71w0g%3D%3D&jschl_vc=7d9987dcac5fa7a23df7ed2bd6fb1899&pass=1570558485.716-%2BSZdNmBa5s&jschl_answer=39.9899829375 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc7bc390>, 'Connection to 78.157.213.13 timed out. (connect timeout=5)')): https://rafflelinkz.com/shoe-gallery/air-jordan-6-travis-scott-olive-17/ 
+[10-08-2019 19:14:56] 	 local variable 'response' referenced before assignment 
+[10-09-2019 06:31:20] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /feature/air-jordan-6-travis-scott-olive-15/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edca71eb8>, 'Connection to 77.75.126.138 timed out. (connect timeout=5)')): https://rafflelinkz.com/feature/air-jordan-6-travis-scott-olive-15/ 
+[10-09-2019 06:31:20] 	 local variable 'response' referenced before assignment 
+[10-09-2019 15:04:38] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=7fbe57b1f1b7e995bd7986df3f7087aceca44492-1570629863-0-AV7lkjqQnk0Ag6aLnF55b7q%2FpCpspNqUeEsi2WxUi4rqW9Srb76DR6L%2BuayTHRc5lwcd1nUInu7MAOnf%2B0hz%2BDpzDzi2dHPk5c3D%2BBRkhvhC7iJlBj1jTisv1BlHY0QDBk9k1mfdG3olFpBHVEjEYxwCGyOReHnxRFvQa1ZcY6yMlrtO3vcatiSI0tq7IyHxKQ%3D%3D&jschl_vc=9a1ab1f8ccfad2e9ef19c91ca768cf4f&pass=1570629867.11-eR45I%2B4WA5&jschl_answer=55.5407241339 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc746550>, 'Connection to 31.132.1.254 timed out. (connect timeout=5)')): https://rafflelinkz.com/dsm-new-york/air-jordan-6-travis-scott-olive-26/ 
+[10-09-2019 15:04:38] 	 local variable 'response' referenced before assignment 
+[10-09-2019 16:35:25] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=f97e8fe752545d8da7316a133a02dbfb004d0761-1570635310-0-AcZY3GWOjrm%2FX7pn0JHZIhSPbtZaU%2Fg4UO%2BoVyTVIsSz%2FwhixPyij9e9EK32MHU0Dnkfdl98ZwBfwyiz4Bft2Wubxn%2B25wg8d7gdUJj8iKevKc0pjuPqSabXi%2BVbUkX2pcPG5jxP0oLC9gFKSAfFT8DoSp%2B4gryLYKdkdn6bGV7%2BGdVm1%2FVihUwvflk41cQJ4g%3D%3D&jschl_vc=cc3ca81227d6891cb57911290049452d&pass=1570635314.706-snwdKZxoR5&jschl_answer=-11.9732666467 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc5080f0>, 'Connection to 77.75.126.213 timed out. (connect timeout=5)')): https://rafflelinkz.com/juice/air-jordan-6-travis-scott-olive-28/ 
+[10-09-2019 16:35:25] 	 local variable 'response' referenced before assignment 
+[10-09-2019 17:40:46] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=30176eba40454967f67f9ee4990cd441ca0bbb67-1570639231-0-AS0KjBEIYmMfb1Mk9g8ETHPQYk4vbLKzs02%2BQ84ZQe69bDdBbpX4qGVhAyQUTLzPv2zZEcA2grI5%2FKo5KJo5AfnE3JaoYh6UtsgFQozLfDivCL7YqCmrQp3aDHj9XHMLG852mMzrtNHmPpfpbx5QjawbgEtiF1%2BPQPPqJx7t5Of3E28qX65pA3%2BL9l0SzDd4NA%3D%3D&jschl_vc=6ea34563928210b5f231629fbc1a0c85&pass=1570639235.394-BnH7er10lW&jschl_answer=20.8835998696 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc828cf8>, 'Connection to 78.157.213.104 timed out. (connect timeout=5)')): https://rafflelinkz.com/foot-district/air-jordan-6-travis-scott-olive-25/ 
+[10-09-2019 17:40:46] 	 local variable 'response' referenced before assignment 
+[10-09-2019 18:42:55] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/dsm-new-york/air-jordan-6-travis-scott-olive-26/ 
+[10-09-2019 18:42:55] 	 local variable 'response' referenced before assignment 
+[10-09-2019 23:45:35] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=ea090f9afb8cdb29b812c12248cf66ffb0a6f3cb-1570661120-0-Aa%2FtuL27Eizywgbm6HBi8QDkcvTCh7I30mYlBTslXcKpoI%2FqfKbmyVJEYWPlxsge69czUKTepM1zB9uYfwOck8oAU83tNN0%2BZ6by9OL%2FyCxBrDFVYfk%2F6CJDBWdd%2FZLlZGtiE5QGH9LOw8Y6z1FgysHI42r12FlrfwepW90qne%2BrPbRmWZKUE1V9DpEFzVWLow%3D%3D&jschl_vc=b95748e162ec7d791cf9d493198a6812&pass=1570661124.346-9jOITxLxcP&jschl_answer=7.9088387223 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc67bf98>, 'Connection to 31.132.1.167 timed out. (connect timeout=5)')): https://rafflelinkz.com/concepts/air-jordan-6-travis-scott-olive-31/ 
+[10-09-2019 23:45:35] 	 local variable 'response' referenced before assignment 
+[10-10-2019 04:15:25] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=9256844ad1125f4969f79bb3626c4f8a29f9c6e4-1570677310-0-AXyM2oKcL7N4tkjHWreXAyDkXRANtxnGS5vPZc14Hjfk1%2Fg0j1AmO2HRtDOaY7Z7iKEB5foiz5vqJdMfDI1bzRUM6VDhn0W%2BQfMSNGx4LZ5ipUKrlPcCdQXCYNqoD5Ss4D%2FZk3GPxwWbMr%2F%2BsZ4T2e9oqhcNLikTdEECozgujWsBubEXcumJBxiYB08K2g7Ldw%3D%3D&jschl_vc=18a75dc0d1866994611b0c3e8b7ec5fa&pass=1570677314.509-wtoZITMCl2&jschl_answer=2.4843589843 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc731dd8>, 'Connection to 78.157.213.132 timed out. (connect timeout=5)')): https://rafflelinkz.com/extra-butter/air-jordan-6-travis-scott-olive-32/ 
+[10-10-2019 04:15:25] 	 local variable 'response' referenced before assignment 
+[10-10-2019 04:17:21] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=c5fa0405999d78c1c0e3128c30c25f74e158f423-1570677426-0-AWJhDZUs%2FW%2FNt9xdHuArwCBqlGIVN5fbGgwUnje7XW%2FbN0LgkKarPt50GDE0bXMRnBHjxpRBicTlJInl5W3qy6LJQJGLBo4k5hiy9AJF4TSjAe8Qfp9xTIbZEyohwjfEsOGg%2BS%2BlnA15E2CsN9Mc7CZzEXQBhaLLg3EMujhN7n0eUXuDApy2iCbue5K2wHwG%2BA%3D%3D&jschl_vc=bf34f16e080109685a949ba090eb75a4&pass=1570677430.043-8lnjVN%2Bg%2BV&jschl_answer=15.5875165396 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc26fe80>, 'Connection to 78.157.213.111 timed out. (connect timeout=5)')): https://rafflelinkz.com/extra-butter/air-jordan-6-travis-scott-olive-32/ 
+[10-10-2019 04:17:21] 	 local variable 'response' referenced before assignment 
+[10-10-2019 04:32:32] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /foot-district/air-jordan-6-travis-scott-olive-25/?unlock (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc2a0da0>: Failed to establish a new connection: [Errno 111] Connection refused',))): https://rafflelinkz.com/foot-district/air-jordan-6-travis-scott-olive-25/ 
+[10-10-2019 04:32:32] 	 local variable 'response' referenced before assignment 
+[10-10-2019 07:05:06] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=bd133a664caada8c77b18a6ba6a09255576f1bdd-1570687491-0-AeGdYkuSbEjARuA1UO36Lq9zIxi4O1ZHZDSGqwjAOOclanmsWdZTW%2BWT3wiYlhxXdGWWXzHh7H1g61gAZLG40uf%2BwDHlqbc68gZ1S1Uws4OABcjvNnwxUpJDtNE0rFHhysA%2B2u9Bc1IWfLBpngezPuJ5SURSO6xLqbHHYnSA%2B1gOeNNNofp3bESPwnAF5sWf1Q%3D%3D&jschl_vc=b044866ce3c5eacfa403d204244f189f&pass=1570687495.756-%2FBWnEyZ1vR&jschl_answer=18.5196289595 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edca54630>, 'Connection to 77.75.126.160 timed out. (connect timeout=5)')): https://rafflelinkz.com/wish/air-jordan-6-travis-scott-olive-30/ 
+[10-10-2019 07:05:06] 	 local variable 'response' referenced before assignment 
+[10-10-2019 09:28:44] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=ae8bcef4c60bbf415e8d83e312d1a63dcdfe9f68-1570696109-0-AaxG4WKHnxc%2B7HPcl8seL5ABil96ZRTpqoa%2FPP9Q%2Bm%2FqLEkewsW7SIrdPb58F%2FWzaTbp0x9YBOUX8Ja6SHeQXgEK3Tvl%2FMn%2FcD%2BvMxpTPk2o3OrGk5NKEn%2B1P8myeTjDogYm6GAMd8H%2FdzKkPhVDXca5nxbTox%2FHmQEwnMWgkEwz2kJY8qNFCvNZLnOLwEgD3g%3D%3D&jschl_vc=bcecbda42cf53a580975e161143ca2b8&pass=1570696113.571-jotSSBON56&jschl_answer=18.8701406718 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc93e240>, 'Connection to 31.132.1.140 timed out. (connect timeout=5)')): https://rafflelinkz.com/concepts/air-jordan-6-travis-scott-olive-31/ 
+[10-10-2019 09:28:44] 	 local variable 'response' referenced before assignment 
+[10-10-2019 17:23:02] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=fc92466f3362d2c7f96e51b4e10bab584a344ad8-1570724567-0-AcIlFflGCyjHsoEC7NLAjHowCihi2SnYrxQxZWEi52G%2FI9qqiPtgjjQK02RY6NbVgwxylZOSD383OSTpz7x2cjptxoh4lJf%2FnerJ7ArRyNFoa4my6gX5kcNPrefK4vh7ZartLA53%2BF2dw1mTH1uWFc3YL2koiUhKCBSOZCcyeLE4WYrNXfSddWAjUjzgwfyLtA%3D%3D&jschl_vc=76dc33d904f4491824936cbce80cf090&pass=1570724571.52-XaUpyv20jc&jschl_answer=21.2299410052 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edd394198>, 'Connection to 31.132.1.207 timed out. (connect timeout=5)')): https://rafflelinkz.com/extra-butter/air-jordan-6-travis-scott-olive-32/ 
+[10-10-2019 17:23:02] 	 local variable 'response' referenced before assignment 
+[10-10-2019 17:38:50] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /extra-butter/air-jordan-6-travis-scott-olive-32/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edd397160>, 'Connection to 77.75.126.131 timed out. (connect timeout=5)')): https://rafflelinkz.com/extra-butter/air-jordan-6-travis-scott-olive-32/ 
+[10-10-2019 17:38:50] 	 local variable 'response' referenced before assignment 
+[10-10-2019 17:54:50] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/extra-butter/air-jordan-6-travis-scott-olive-32/ 
+[10-10-2019 17:54:50] 	 local variable 'response' referenced before assignment 
+[10-10-2019 18:16:15] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/extra-butter/air-jordan-6-travis-scott-olive-32/ 
+[10-10-2019 18:16:15] 	 local variable 'response' referenced before assignment 
+[10-10-2019 20:07:33] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /capsule/air-jordan-6-travis-scott-olive-27/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edcab0438>, 'Connection to 31.132.1.227 timed out. (connect timeout=5)')): https://rafflelinkz.com/capsule/air-jordan-6-travis-scott-olive-27/ 
+[10-10-2019 20:07:33] 	 local variable 'response' referenced before assignment 
+[10-10-2019 22:40:17] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=fcdfaf28bb6564985583e371768e349f96a5e1a8-1570743602-0-AfwbwaAlaCW7Ku%2B8GYpqCQS%2BjH1YZlDMRIJ2HrIaMzkf%2F%2Fl1B%2FnYv%2BVi79XGWivTL%2F%2FKxp1MDXrosYEjhcqa6Lf4mKtx5%2FrlkyCwCeZGrDmGmkgcnDk4hiSYsjfGXDrlEIWvW3QN4mw4ujmB2umPuUbXVG3OdugcS7WW3d6Dg2GXCsmGaPkXQ9XHmJj9nq7X8A%3D%3D&jschl_vc=4a12d9184f6bd62c8a56245144351158&pass=1570743606.02-x4u4Pi5wi4&jschl_answer=23.3677191199 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc275cf8>, 'Connection to 78.157.213.154 timed out. (connect timeout=5)')): https://rafflelinkz.com/hirshleifers/air-jordan-6-travis-scott-olive-34/ 
+[10-10-2019 22:40:17] 	 local variable 'response' referenced before assignment 
+[10-11-2019 00:48:05] 	 Get Url:https://rafflelinkz.com/capsule/air-jordan-6-travis-scott-olive-27/:503 
+[10-11-2019 05:04:58] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=003a2506e1e35cc9527ea262d81612f4fcdead66-1570766683-0-AQZvwrZ7XSlwaZzOT6gFaT1TNW1d9mK%2BS%2F1r3NNTBrqAt4%2BcuxsFl8yPkeJ0LzHutzGDNrb9dgAuo3cvIfANPb%2FdaPaReMEcbwH%2B4Xd9X0MfaV4XMh39b8Sj9m9UwFBPF%2FKiRRRVy%2F47mGB%2FV2qKd8vJhDBlhaJguCgx1meMjbUW445%2FRfqV64ANW0G5kELojw%3D%3D&jschl_vc=03150a454839ab62a7e1f5bac94e6273&pass=1570766687.266-n7sH0b2kbm&jschl_answer=11.5727351639 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc8d5780>, 'Connection to 78.157.213.3 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-11-2019 05:04:58] 	 local variable 'response' referenced before assignment 
+[10-11-2019 06:14:00] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=56b8a1f5b0319ef8bc2528f3bd5007a3942a15e9-1570770824-0-AfBBGNqC2feSUc%2F739EeNzkBUUNQrTl7JyQ0tiCGbXBRmdPX0Itgn%2BCyzwWruuRzIG7iDw4MzhPzlG1swkYNDuQWWGxALOE2kTnft%2FWAd2fG4hvtHgwe%2B76bKFYTYPkfr%2Fuqu2kLlNr6iACATeJh6PlCSecZumdVNOcS3r0ua03eZzg5Sqq%2FA5zqhzONcmLWDLmKlZBe9iVi8A4og2fmkAs%3D&jschl_vc=ad26e3b585c171277bc4fa82ba69cb78&pass=1570770828.908-3chNOvWYkp&jschl_answer=3.9576500756 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edca3eb70>, 'Connection to 78.157.213.166 timed out. (connect timeout=5)')): https://rafflelinkz.com/slam-jam-socialism/air-jordan-6-travis-scott-olive-33/ 
+[10-11-2019 06:14:00] 	 local variable 'response' referenced before assignment 
+[10-11-2019 07:13:49] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=bc00dfc929a6444b686032e9db58f87b85ec377a-1570774414-0-AVASr20p95CpvqGWhzDs5t8T0iAgF427YfOWNwq0SHjXk5fZYAPZ%2Beh8WuQiqbCUkfhy7Y2aKsqDCN%2Bo0pQV%2FbIgPoZHMJwgYYNUGLm0cFU86ehXa%2BvYY%2F36YGE1xXTJ%2BVD%2B2uho%2FfqgbXACRk6GzEMwjwlAdGmxRXQVvNOXNxBFntZIuM%2Bqb66VZtVSiCOILg%3D%3D&jschl_vc=15218c7c79390107c452e7349dce7201&pass=1570774418.078-ijztfXiwg9&jschl_answer=299.8599082906 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc7c4cc0>, 'Connection to 77.75.126.213 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-11-2019 07:13:49] 	 local variable 'response' referenced before assignment 
+[10-11-2019 07:37:55] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=a61316b3dbc4d4dd618c083ae694cfc873d96f16-1570775860-0-AUEpMZ0WdBf5oviu0lU3Ay%2BLOL5Q7h0NlkPZ7q22RQtvr%2BoU0A1CLM0XGVr8Is2yqGHiWX9Ju3D7z1HnJhgK1muTv2N9H%2F9sqdDzm3SDj5SjmD7Oe4oqT7uqaMYvGcYEsXRCAhR6Nbd8jMfasLkB%2FpohHKni8pKxUlkwmsZ7iDjIQCTEQYDg7eQVatGAGLes1wAliGNEu85novpHCCqqRkA%3D&jschl_vc=54bd423a4d2e58951c396a02e3ec11a2&pass=1570775864.455-V9MlFe43j9&jschl_answer=24.2219792401 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc7c8eb8>, 'Connection to 31.132.1.171 timed out. (connect timeout=5)')): https://rafflelinkz.com/slam-jam-socialism/air-jordan-6-travis-scott-olive-33/ 
+[10-11-2019 07:37:55] 	 local variable 'response' referenced before assignment 
+[10-11-2019 10:28:06] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=dcc45b531185aa905d01459c3a4d3e162ec7c0e3-1570786071-0-AdqWXcSF3%2B%2F7U9WDSp3G%2F5%2Bp82fj21Lhb8TKP3kTI4AwfVmM57FkY8oj515NDqgvP%2FfJHOHtCeeaJFUozkcxWlF1jMA6Ih%2FRTIvhxsDr2i08yhNwSjtjo93%2Fh9%2BIRCWtBp2aMKPaRNDgJwJetinciQWiGY2oFszI5Y6mhWNshrxXP7LD3kADKhKibsBYt60MDg%3D%3D&jschl_vc=f58441300e50724773dfe287cb267492&pass=1570786075.077-%2F27bQnyEQO&jschl_answer=25.2779365414 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc68ce80>, 'Connection to 78.157.213.234 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-11-2019 10:28:06] 	 local variable 'response' referenced before assignment 
+[10-11-2019 18:40:51] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /livestock/air-jordan-6-travis-scott-olive-35/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edcaa7160>, 'Connection to 78.157.213.190 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-11-2019 18:40:51] 	 local variable 'response' referenced before assignment 
+[10-11-2019 18:51:49] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/dsm-los-angeles/air-jordan-6-travis-scott-olive-29/ 
+[10-11-2019 18:51:49] 	 local variable 'response' referenced before assignment 
+[10-11-2019 23:48:36] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=a551edd9cb0b39e8bc7c6ee68720015ca88c80e6-1570834101-0-AdHYjLY3ij%2BCWfzJbt5l8XCaJzuQIsu1Ar7WCvkaMTJRJ6p6kCdjjOwPt4%2FYXhxKatRuLabjOG5kY1PUHjveFKlwohjNjk%2Bm9O%2BscLCtvoAqsIeNd1c1%2BQPx7w66paNu3lk8PtcFHkDkdf7JirmzAq4LoZayoMNtyiJNsx19cQjCCI9up0U3KuR1Zc1GejI3lA%3D%3D&jschl_vc=8ec48846ed6df821b5fd1fc7429f3d32&pass=1570834105.531-tTe2LtPQ84&jschl_answer=22.1995103492 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc5eee80>, 'Connection to 31.132.1.189 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-11-2019 23:48:36] 	 local variable 'response' referenced before assignment 
+[10-12-2019 02:42:12] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=1b05c2fd28a44fd8e1d34a60c60c7506142f97c2-1570844517-0-AXHkUybJFLQ20fNDx0wDamNRsMmNslOcSCqn8bSYVPSTwLwXEvgEGLKqvOYQ%2BXcp94JAXZNlRwnKnyQSydUtWhWO0KzH%2FdTFpdPg25OsX%2FyKySaf0zapR2AKlUWA6u%2BpD3HzEbvhgdEucw2M%2F%2FWpaPAnzzjWFtcvMybGDymdipLUotdyR2FaTViywdjuEa9LZ4uhYgByuNFiF1SIhCTLx0M%3D&jschl_vc=4ace35ad12b95e7cd6a7034f8a455342&pass=1570844521.816-8%2B5uoDS%2Bn3&jschl_answer=34.3046559826 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc634a58>, 'Connection to 77.75.126.131 timed out. (connect timeout=5)')): https://rafflelinkz.com/slam-jam-socialism/air-jordan-6-travis-scott-olive-33/ 
+[10-12-2019 02:42:12] 	 local variable 'response' referenced before assignment 
+[10-12-2019 04:35:36] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /livestock/air-jordan-6-travis-scott-olive-35/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc9ed668>, 'Connection to 78.157.213.28 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-12-2019 04:35:36] 	 local variable 'response' referenced before assignment 
+[10-12-2019 13:55:07] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /slam-jam-socialism/air-jordan-6-travis-scott-olive-33/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc825780>, 'Connection to 78.157.213.179 timed out. (connect timeout=5)')): https://rafflelinkz.com/slam-jam-socialism/air-jordan-6-travis-scott-olive-33/ 
+[10-12-2019 13:55:07] 	 local variable 'response' referenced before assignment 
+[10-12-2019 14:02:43] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=cce54ab2f9ad61998db7f42dcffefdc4afb95ff1-1570885348-0-Aa%2FukUrT0hOUdfdJMm9lfPr89THwmR6LYlWaYeVmfWWkvFTTCBa2%2BFpTdnnhsK2PpOdCMjXkxJZS9o8jpUhqtIMG9xtLnVvM9KrlVHjl9lztaSBNlsE0zGxsLuI%2FyZTUFi8HtBcVD4N6VJWvBQrAXEoNvTshJ0fHTBn8nhR3IoSg94%2F5hUzWS9Au4hR7fafOaA%3D%3D&jschl_vc=c7652bce4fa1704a26c76f28063fccb1&pass=1570885352.562-jE8Hco%2B1Ox&jschl_answer=11.9104927745 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc598b38>, 'Connection to 31.132.1.177 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-12-2019 14:02:43] 	 local variable 'response' referenced before assignment 
+[10-12-2019 17:53:08] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=fb0ec91644b3cce8c7e320d62135a7d960a10580-1570899173-0-AXIAx4wcRzXad2u2qRAGGggUl1BbNGo4zNal%2FVo23o7eGrnhygDlBzCG3ERjBuCXGlDIJajw1IbQ3DGRMD5SW2hRh6eJtDC6xZCO6XqJ8Mzj%2BFlwswn81nKkZ7PZWqG%2BEiPPlJApvV1TffnQeHWFhGcvKKip%2BHW4wR9c2UbLjKcG%2F6MsORbxXztu3%2FKxQQFwhw%3D%3D&jschl_vc=cebbf411c57a12fe14234869ad11929c&pass=1570899177.107-xk3BDWKF86&jschl_answer=18.7058364573 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc0b2ac8>, 'Connection to 31.132.1.156 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-12-2019 17:53:08] 	 local variable 'response' referenced before assignment 
+[10-12-2019 21:22:38] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=1346242eb135655a64a07ae6fd6997c27a29c3bb-1570911743-0-Acq4vfz2VS20IcYTKkL9vPXTNs75OuLhmPpdn0dA4JdVpfUp1msIChxv3o8v%2FoyOAJYWQO7pqWZMI3ua%2Ff60kVENeZCLclZvbTcwZA63Wwr4KQIXNqWRrdZB5vVcdWJ4sJecpBGluwbu0luhelZXfuIRxwMFLDTlXEgjMDuoOLCvBPxisTg3saKOS7uwUQkwlQ%3D%3D&jschl_vc=7250dd62a7d8c77499ca1d388d13f2e6&pass=1570911747.209-xdzRrVirSq&jschl_answer=23.9096706774 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc4ad198>, 'Connection to 77.75.126.246 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-12-2019 21:22:38] 	 local variable 'response' referenced before assignment 
+[10-13-2019 00:18:09] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=d7b1b20cd9459074badddd659f893954052db520-1570922274-0-ATabrVddyRt7F43aRzzrV6OajbFYi5emhLBgmriMUhWr%2F221dBEjFUKuDYcE2GEO4b2Wb5FwGKYnF4RiHGT6N9AJCr5NFGuR3zrqlhtFuiMyFClS6%2BCvQNf6MmHXG6ezBCSQwLC5XVllqhekcwl9CEF45JIf%2BYEffIaOdedpnQ03j1oAWTBcU6cfBYTZsIpZHA%3D%3D&jschl_vc=3aa8ca4712728ea033413459929f3a4a&pass=1570922278.532-BAIOavAiwk&jschl_answer=15.2854329172 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edcb3cc18>, 'Connection to 77.75.126.246 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-13-2019 00:18:09] 	 local variable 'response' referenced before assignment 
+[10-13-2019 09:22:27] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=8b99a66413fc0d1190f3fca6c29fb65887b98d3d-1570954932-0-AUcpJndIKVxxG6it1%2FpHkP3BwQhUbtIG0zd4YMgw3Rg7B9FcZvIhSFB9pGLdkUwKZVxkf2giBVeczTOyPyh62MR2VFPIytH7HDrnhrgoalWmH2VzCqPcFKlAjUc2hUgK2jpy%2FCzuDgqVp6v7lHUsgt5ClvibqVrtUnQudYdrpd%2Bdt0Bk1bhvVgDNgDdaplaj7A%3D%3D&jschl_vc=bc44e04a5d99de35fc8b7bea35a45adc&pass=1570954936.699-4Y%2BX0TIfZq&jschl_answer=71.4873046571 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc723a58>, 'Connection to 78.157.213.7 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-13-2019 09:22:27] 	 local variable 'response' referenced before assignment 
+[10-13-2019 12:40:25] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=e3dd74b180eea71a1f863382d5f220dff7d6174b-1570966810-0-AU06EetSBr1a%2Fc%2BlCG9PYWRoDaGqEFNH0em5LJN6m85J8oQGNq3doONJ1y8E%2B9PA8GlDyVhc5WR0cfvfCt6uXIJrsj67tSdElpH85Zl%2FxBHjUk9D%2FiGA49Nc2%2BaJwURkcyfO7djComo3KzF4Gu9zT76xZIeTKv2M8ybrYN0e7xLjqzyN0Pg0FnVGX%2FplQ09phg%3D%3D&jschl_vc=a9490e9680eec8f224ffcfe822de4f6c&pass=1570966814.53-AHsJjPPQpg&jschl_answer=25.2821903919 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc90aeb8>, 'Connection to 77.75.126.138 timed out. (connect timeout=5)')): https://rafflelinkz.com/hirshleifers/air-jordan-6-travis-scott-olive-34/ 
+[10-13-2019 12:40:25] 	 local variable 'response' referenced before assignment 
+[10-13-2019 15:42:11] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /livestock/air-jordan-6-travis-scott-olive-35/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc3e6b38>, 'Connection to 31.132.1.244 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-13-2019 15:42:11] 	 local variable 'response' referenced before assignment 
+[10-13-2019 18:11:01] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=dca2ac933de0ed15d34311fdfac06019bb8717b8-1570986645-0-AU07swYz5gFj40AHKLSQ4DWqpodw%2BOA%2BovlFA%2B2Qf5UH6rfVRHK8RAhcMxoRs8DUhr1Tu%2FHFpImvoE6Y%2BbMISu2vIyRb%2FoIH6ljcDRVSzOwwXd6aRxotubrnIBJdxN%2FeUaq0IZPdaOI7K6hC3eafNBkcSYZDtN4DPTjp4rMSQBrY2w2lif1bu4niOikTS3uyJg%3D%3D&jschl_vc=65c06c58bd0bae56094cfd09ce0f44ff&pass=1570986649.784-DqPMUqgum4&jschl_answer=16.7885100104 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc3128d0>, 'Connection to 78.157.213.2 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-13-2019 18:11:01] 	 local variable 'response' referenced before assignment 
+[10-13-2019 18:48:01] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /livestock/air-jordan-6-travis-scott-olive-35/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc476160>, 'Connection to 31.132.1.162 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-13-2019 18:48:01] 	 local variable 'response' referenced before assignment 
+[10-13-2019 20:29:38] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /livestock/air-jordan-6-travis-scott-olive-35/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9ee227db00>, 'Connection to 31.132.1.177 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-13-2019 20:29:38] 	 local variable 'response' referenced before assignment 
+[10-13-2019 21:01:32] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /crusoe-sons/nike-air-force-1-low-what-the-nyc/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc30f6a0>, 'Connection to 78.157.213.190 timed out. (connect timeout=5)')): https://rafflelinkz.com/crusoe-sons/nike-air-force-1-low-what-the-nyc/ 
+[10-13-2019 21:01:32] 	 local variable 'response' referenced before assignment 
+[10-13-2019 21:02:24] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /livestock/air-jordan-6-travis-scott-olive-35/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc907f60>, 'Connection to 78.157.213.244 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-13-2019 21:02:24] 	 local variable 'response' referenced before assignment 
+[10-13-2019 21:23:49] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /livestock/air-jordan-6-travis-scott-olive-35/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc274908>, 'Connection to 78.157.213.51 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-13-2019 21:23:49] 	 local variable 'response' referenced before assignment 
+[10-13-2019 22:44:58] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=850f5b5dd3b3c88f0be4a153b4589cae0d779ddd-1571003082-0-AafoUZDCddP6KEMiop4fD3rJ29PAI2bKTSEEGDaTruXozsUz78%2Ba06PsqUNxfYLo7Ucj1enWGO0Lf%2Fg8Oh93bZO0c%2F0e%2F%2FKy8corXCD0VSRGVZvwomL1JSgmEtU1qvQJr8BOl%2B%2FdR23rb0tsZVhDxGu6yfhiAg7Grh5teJmGp2NgYySxTwNW%2BAYRpfir105QBQ%3D%3D&jschl_vc=a64d99f85d81f0f1680a43786c50d247&pass=1571003086.903-PGUEkE%2BJhB&jschl_answer=1.4058133884 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc712d68>, 'Connection to 31.132.1.156 timed out. (connect timeout=5)')): https://rafflelinkz.com/concepts/air-jordan-6-travis-scott-olive-31/ 
+[10-13-2019 22:44:58] 	 local variable 'response' referenced before assignment 
+[10-14-2019 00:07:57] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /livestock/air-jordan-6-travis-scott-olive-35/?unlock (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9ee2266dd8>: Failed to establish a new connection: [Errno 111] Connection refused',))): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-14-2019 00:07:57] 	 local variable 'response' referenced before assignment 
+[10-14-2019 02:39:12] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/extra-butter/nike-air-force-1-low-what-the-nyc-2/ 
+[10-14-2019 02:39:12] 	 local variable 'response' referenced before assignment 
+[10-14-2019 03:20:54] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /livestock/air-jordan-6-travis-scott-olive-35/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc8f3080>, 'Connection to 31.132.1.145 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-14-2019 03:20:54] 	 local variable 'response' referenced before assignment 
+[10-14-2019 04:57:03] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /cdn-cgi/l/chk_jschl?s=6c2e8a9468f6a77c35b3bdcd967fd36b7ae158ee-1571025407-0-AeZI69HoUnNS%2F2p60smcTWpvNvw1j%2Fubxal%2BCMd48ZaaH1qBin%2FTV0OunP2cGt3raDO7jut07U3JqlndQMdVUGGE6FNA0rdABp5X%2B0pgsCEAzQr6TPZJp%2F8OjyjFj3Kh7DGSzNGw05gYt5YUHueGgRR%2Fc%2FR4o8%2FWB%2FIoIfYBFP3d%2FKfnpi4V4E2SLngNNox8Fw%3D%3D&jschl_vc=7f084e399a3b8fc615f7a28b1e27cdf8&pass=1571025411.914-LxMP1mQSuH&jschl_answer=57.9274949132 (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc2a7d30>, 'Connection to 77.75.126.246 timed out. (connect timeout=5)')): https://rafflelinkz.com/livestock/air-jordan-6-travis-scott-olive-35/ 
+[10-14-2019 04:57:03] 	 local variable 'response' referenced before assignment 
+[10-14-2019 11:26:10] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /slam-jam-socialism/air-jordan-6-travis-scott-olive-33/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f9edc687ac8>, 'Connection to 196.16.88.231 timed out. (connect timeout=5)')): https://rafflelinkz.com/slam-jam-socialism/air-jordan-6-travis-scott-olive-33/ 
+[10-14-2019 11:26:13] 	 local variable 'response' referenced before assignment 
+[10-18-2019 13:43:49] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/fear-of-god/nike-air-fear-of-god-1-yellow/ 
+[10-18-2019 13:43:49] 	 local variable 'response' referenced before assignment 
+[10-19-2019 01:37:41] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /extra-butter/air-jordan-1-high-shattered-backboard-3-0-2/?unlock (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f87a7e1e6a0>: Failed to establish a new connection: [Errno 111] Connection refused',))): https://rafflelinkz.com/extra-butter/air-jordan-1-high-shattered-backboard-3-0-2/ 
+[10-19-2019 01:37:41] 	 local variable 'response' referenced before assignment 
+[10-19-2019 05:13:04] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/extra-butter/air-jordan-1-high-shattered-backboard-3-0-2/ 
+[10-19-2019 05:13:04] 	 local variable 'response' referenced before assignment 
+[10-19-2019 05:16:13] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/fuel/air-jordan-1-high-shattered-backboard-3-0/ 
+[10-19-2019 05:16:13] 	 local variable 'response' referenced before assignment 
+[10-19-2019 17:04:46] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/extra-butter/air-jordan-1-high-shattered-backboard-3-0-2/ 
+[10-19-2019 17:04:46] 	 local variable 'response' referenced before assignment 
+[10-19-2019 17:33:00] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/afew/air-jordan-1-high-shattered-backboard-3-0-8/ 
+[10-19-2019 17:33:00] 	 local variable 'response' referenced before assignment 
+[10-19-2019 23:35:53] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/shiekh/air-jordan-1-high-shattered-backboard-3-0-9/ 
+[10-19-2019 23:35:53] 	 local variable 'response' referenced before assignment 
+[10-20-2019 16:17:30] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/titolo/air-jordan-1-high-shattered-backboard-3-0-6/ 
+[10-20-2019 16:17:30] 	 local variable 'response' referenced before assignment 
+[10-20-2019 20:16:39] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sam-tabak/air-jordan-1-high-shattered-backboard-3-0-13/ 
+[10-20-2019 20:16:39] 	 local variable 'response' referenced before assignment 
+[10-21-2019 17:41:24] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sam-tabak/air-jordan-1-high-shattered-backboard-3-0-13/ 
+[10-21-2019 17:41:24] 	 local variable 'response' referenced before assignment 
+[10-21-2019 17:45:40] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/noirfonce/air-jordan-1-high-shattered-backboard-3-0-12/ 
+[10-21-2019 17:45:40] 	 local variable 'response' referenced before assignment 
+[10-21-2019 18:10:52] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/black-box/air-jordan-1-high-shattered-backboard-3-0-19/ 
+[10-21-2019 18:10:52] 	 local variable 'response' referenced before assignment 
+[10-21-2019 19:21:07] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/end/nike-sb-dunk-low-night-of-mischief-4/ 
+[10-21-2019 19:21:07] 	 local variable 'response' referenced before assignment 
+[10-21-2019 22:17:20] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sesinko/air-jordan-1-high-shattered-backboard-3-0-24/ 
+[10-21-2019 22:17:20] 	 local variable 'response' referenced before assignment 
+[10-22-2019 17:04:52] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sneakerbox/air-jordan-1-high-shattered-backboard-3-0-26/ 
+[10-22-2019 17:04:52] 	 local variable 'response' referenced before assignment 
+[10-22-2019 21:02:43] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sneaker-junkies/air-jordan-1-high-shattered-backboard-3-0-22/ 
+[10-22-2019 21:02:43] 	 local variable 'response' referenced before assignment 
+[10-22-2019 21:06:11] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sneaker-junkies/air-jordan-1-high-shattered-backboard-3-0-22/ 
+[10-22-2019 21:06:11] 	 local variable 'response' referenced before assignment 
+[10-23-2019 01:07:19] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /footzone/air-jordan-1-high-shattered-backboard-3-0-31/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7ff882955d68>, 'Connection to 196.16.91.157 timed out. (connect timeout=5)')): https://rafflelinkz.com/footzone/air-jordan-1-high-shattered-backboard-3-0-31/ 
+[10-23-2019 01:07:19] 	 local variable 'response' referenced before assignment 
+[10-23-2019 14:10:59] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/footshop/air-jordan-1-high-shattered-backboard-3-0-33/ 
+[10-23-2019 14:10:59] 	 local variable 'response' referenced before assignment 
+[10-23-2019 17:11:41] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/renarts/air-jordan-1-high-shattered-backboard-3-0-30/ 
+[10-23-2019 17:11:41] 	 local variable 'response' referenced before assignment 
+[10-23-2019 18:02:08] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/ubiq/air-jordan-1-high-shattered-backboard-3-0-37/ 
+[10-23-2019 18:02:08] 	 local variable 'response' referenced before assignment 
+[10-24-2019 09:51:35] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /kith/air-jordan-1-high-shattered-backboard-3-0-43/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/kith/air-jordan-1-high-shattered-backboard-3-0-43/ 
+[10-24-2019 09:51:35] 	 local variable 'response' referenced before assignment 
+[10-24-2019 16:00:14] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/one-block-down/air-jordan-1-high-shattered-backboard-3-0-40/ 
+[10-24-2019 16:00:14] 	 local variable 'response' referenced before assignment 
+[10-24-2019 16:06:11] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/snkrs/air-jordan-1-high-shattered-backboard-3-0-50/ 
+[10-24-2019 16:06:11] 	 local variable 'response' referenced before assignment 
+[10-24-2019 19:32:49] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /oqium/air-jordan-1-high-shattered-backboard-3-0-48/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/oqium/air-jordan-1-high-shattered-backboard-3-0-48/ 
+[10-24-2019 19:32:49] 	 local variable 'response' referenced before assignment 
+[10-24-2019 20:38:20] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/basket4ballers/air-jordan-1-high-shattered-backboard-3-0-49/ 
+[10-24-2019 20:38:20] 	 local variable 'response' referenced before assignment 
+[10-25-2019 00:15:12] 	 'NoneType' object has no attribute 'get' 
+[10-27-2019 15:49:23] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /wish/air-jordan-1-high-shattered-backboard-3-0-53/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f71f60e1dd8>, 'Connection to 94.229.71.33 timed out. (connect timeout=5)')): https://rafflelinkz.com/wish/air-jordan-1-high-shattered-backboard-3-0-53/ 
+[10-27-2019 15:49:23] 	 local variable 'response' referenced before assignment 
+[10-30-2019 07:26:36] 	 Get Url:https://rafflelinkz.com/sneakerbox/air-jordan-1-high-fearless-37/:502 
+[10-30-2019 07:26:36] 	 Get Url:https://rafflelinkz.com/livestock/air-jordan-1-high-fearless-36/:502 
+[10-30-2019 11:24:14] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /novoid-plus/nike-sb-dunk-low-night-of-mischief-12/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/novoid-plus/nike-sb-dunk-low-night-of-mischief-12/ 
+[10-30-2019 11:24:14] 	 local variable 'response' referenced before assignment 
+[10-30-2019 11:41:01] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /sam-tabak/air-jordan-1-high-fearless-34/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/sam-tabak/air-jordan-1-high-fearless-34/ 
+[10-30-2019 11:41:01] 	 local variable 'response' referenced before assignment 
+[10-30-2019 13:11:39] 	 'NoneType' object has no attribute 'get' 
+[10-30-2019 13:12:17] 	 'NoneType' object has no attribute 'get' 
+[10-30-2019 13:12:51] 	 'NoneType' object has no attribute 'get' 
+[10-30-2019 13:13:32] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sneakerbox/air-jordan-1-high-fearless-37/ 
+[10-30-2019 13:13:32] 	 local variable 'response' referenced before assignment 
+[10-30-2019 13:14:16] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/sneakerbox/air-jordan-1-high-fearless-37/ 
+[10-30-2019 13:14:16] 	 local variable 'response' referenced before assignment 
+[10-30-2019 16:36:42] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/18montrose/nike-air-fear-of-god-1-oatmeal-14/ 
+[10-30-2019 16:36:42] 	 local variable 'response' referenced before assignment 
+[10-30-2019 16:37:34] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/lace-up/air-jordan-1-high-fearless-35/ 
+[10-30-2019 16:37:34] 	 local variable 'response' referenced before assignment 
+[11-01-2019 17:22:59] 	 Get Url:https://rafflelinkz.com/capsule/air-jordan-1-high-fearless-55/:502 
+[11-01-2019 17:22:59] 	 Get Url:https://rafflelinkz.com/bstn/nike-air-fear-of-god-1-oatmeal-24/:502 
+[11-01-2019 17:23:02] 	 Get Url:https://rafflelinkz.com/oqium/air-jordan-1-high-fearless-54/:502 
+[11-02-2019 04:51:38] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /bstn/nike-air-fear-of-god-1-oatmeal-24/?unlock (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f44d645ae10>: Failed to establish a new connection: [Errno 111] Connection refused',))): https://rafflelinkz.com/bstn/nike-air-fear-of-god-1-oatmeal-24/ 
+[11-02-2019 04:51:38] 	 local variable 'response' referenced before assignment 
+[11-03-2019 02:16:17] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /capsule/air-jordan-1-high-fearless-55/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/capsule/air-jordan-1-high-fearless-55/ 
+[11-03-2019 02:16:17] 	 local variable 'response' referenced before assignment 
+[11-04-2019 03:56:39] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /extra-butter/nike-air-fear-of-god-1-oatmeal-26/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/extra-butter/nike-air-fear-of-god-1-oatmeal-26/ 
+[11-04-2019 03:56:39] 	 local variable 'response' referenced before assignment 
+[11-04-2019 11:59:32] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /major/air-jordan-1-high-fearless-60/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/major/air-jordan-1-high-fearless-60/ 
+[11-04-2019 11:59:32] 	 local variable 'response' referenced before assignment 
+[11-04-2019 12:20:21] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /extra-butter/nike-air-fear-of-god-1-oatmeal-26/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/extra-butter/nike-air-fear-of-god-1-oatmeal-26/ 
+[11-04-2019 12:20:21] 	 local variable 'response' referenced before assignment 
+[11-04-2019 17:37:09] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/capsule/air-jordan-1-high-fearless-55/ 
+[11-04-2019 17:37:09] 	 local variable 'response' referenced before assignment 
+[11-04-2019 17:39:00] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/hirshleifers/air-jordan-1-high-fearless-59/ 
+[11-04-2019 17:39:00] 	 local variable 'response' referenced before assignment 
+[11-04-2019 17:43:58] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/extra-butter/nike-air-fear-of-god-1-oatmeal-26/ 
+[11-04-2019 17:43:58] 	 local variable 'response' referenced before assignment 
+[11-05-2019 02:49:15] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /extra-butter/nike-air-fear-of-god-1-oatmeal-26/?unlock (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f44d5f07e10>: Failed to establish a new connection: [Errno 111] Connection refused',))): https://rafflelinkz.com/extra-butter/nike-air-fear-of-god-1-oatmeal-26/ 
+[11-05-2019 02:49:15] 	 local variable 'response' referenced before assignment 
+[11-06-2019 00:16:58] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /naked/nike-air-force-1-low-clot-blue-silk/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/naked/nike-air-force-1-low-clot-blue-silk/ 
+[11-06-2019 00:16:58] 	 local variable 'response' referenced before assignment 
+[11-07-2019 15:44:33] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/yme-universe/nike-air-force-1-low-clot-blue-silk-9/ 
+[11-07-2019 15:44:33] 	 local variable 'response' referenced before assignment 
+[11-07-2019 16:10:11] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/dsm-new-york/nike-air-force-1-low-clot-blue-silk-14/ 
+[11-07-2019 16:10:11] 	 local variable 'response' referenced before assignment 
+[11-07-2019 23:44:54] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/browns/nike-vapor-street-off-white-black-blue-yellow-6/ 
+[11-07-2019 23:44:54] 	 local variable 'response' referenced before assignment 
+[11-08-2019 18:21:48] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/carnival/nike-air-force-1-low-clot-blue-silk-21/ 
+[11-08-2019 18:21:48] 	 local variable 'response' referenced before assignment 
+[11-09-2019 17:22:12] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /carnival/nike-air-force-1-low-clot-blue-silk-21/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f44d6484c50>, 'Connection to 94.229.71.75 timed out. (connect timeout=5)')): https://rafflelinkz.com/carnival/nike-air-force-1-low-clot-blue-silk-21/ 
+[11-09-2019 17:22:12] 	 local variable 'response' referenced before assignment 
+[11-09-2019 19:24:18] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/hanon/nike-air-force-1-low-clot-blue-silk-23/ 
+[11-09-2019 19:24:18] 	 local variable 'response' referenced before assignment 
+[11-09-2019 19:32:47] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/end/nike-air-force-1-low-travis-scott-cactus-jack-4/ 
+[11-09-2019 19:32:47] 	 local variable 'response' referenced before assignment 
+[11-09-2019 19:41:34] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/supply/nike-vapor-street-off-white-black-blue-yellow-12/ 
+[11-09-2019 19:41:34] 	 local variable 'response' referenced before assignment 
+[11-11-2019 16:11:13] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/overkill/nike-vapor-street-off-white-black-blue-yellow-16/ 
+[11-11-2019 16:11:13] 	 local variable 'response' referenced before assignment 
+[11-12-2019 04:47:29] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /smets/nike-vapor-street-off-white-black-blue/?unlock (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f44d5fe4f60>: Failed to establish a new connection: [Errno 111] Connection refused',))): https://rafflelinkz.com/smets/nike-vapor-street-off-white-black-blue/ 
+[11-12-2019 04:47:29] 	 local variable 'response' referenced before assignment 
+[11-12-2019 13:26:15] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /soto/nike-vapor-street-off-white-black-blue-yellow-24/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/soto/nike-vapor-street-off-white-black-blue-yellow-24/ 
+[11-12-2019 13:26:15] 	 local variable 'response' referenced before assignment 
+[11-12-2019 17:17:10] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/smets/nike-vapor-street-off-white-black-blue/ 
+[11-12-2019 17:17:10] 	 local variable 'response' referenced before assignment 
+[11-12-2019 17:32:08] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/feature/nike-vapor-street-off-white-black-blue-yellow-25/ 
+[11-12-2019 17:32:08] 	 local variable 'response' referenced before assignment 
+[11-12-2019 20:38:32] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/broken-arm/nike-air-force-1-low-travis-scott-cactus-jack-17/ 
+[11-12-2019 20:38:32] 	 local variable 'response' referenced before assignment 
+[11-12-2019 21:39:03] 	 'NoneType' object has no attribute 'get' 
+[11-12-2019 21:39:53] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/hbx/nike-vapor-street-off-white-black-blue-yellow-26/ 
+[11-12-2019 21:39:53] 	 local variable 'response' referenced before assignment 
+[11-12-2019 21:40:40] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/hbx/nike-vapor-street-off-white-black-blue-yellow-26/ 
+[11-12-2019 21:40:40] 	 local variable 'response' referenced before assignment 
+[11-12-2019 21:41:29] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/hbx/nike-vapor-street-off-white-black-blue-yellow-26/ 
+[11-12-2019 21:41:29] 	 local variable 'response' referenced before assignment 
+[11-12-2019 21:42:18] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/hbx/nike-vapor-street-off-white-black-blue-yellow-26/ 
+[11-12-2019 21:42:18] 	 local variable 'response' referenced before assignment 
+[11-12-2019 21:43:05] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/hbx/nike-vapor-street-off-white-black-blue-yellow-26/ 
+[11-12-2019 21:43:05] 	 local variable 'response' referenced before assignment 
+[11-12-2019 21:43:54] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/hbx/nike-vapor-street-off-white-black-blue-yellow-26/ 
+[11-12-2019 21:43:54] 	 local variable 'response' referenced before assignment 
+[11-13-2019 02:44:50] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /bodega/nike-vapor-street-off-white-black-blue-yellow-29/?unlock (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f44d52cb908>: Failed to establish a new connection: [Errno 111] Connection refused',))): https://rafflelinkz.com/bodega/nike-vapor-street-off-white-black-blue-yellow-29/ 
+[11-13-2019 02:44:50] 	 local variable 'response' referenced before assignment 
+[11-13-2019 09:16:00] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /footpatrol/nike-air-force-1-low-travis-scott-cactus-jack-18/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/footpatrol/nike-air-force-1-low-travis-scott-cactus-jack-18/ 
+[11-13-2019 09:16:00] 	 local variable 'response' referenced before assignment 
+[11-13-2019 15:24:35] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/juice/nike-vapor-street-off-white-black-blue-yellow-31/ 
+[11-13-2019 15:24:35] 	 local variable 'response' referenced before assignment 
+[11-14-2019 00:56:19] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /dover-street-market/nike-air-force-1-low-travis-scott-cactus-jack-26/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/dover-street-market/nike-air-force-1-low-travis-scott-cactus-jack-26/ 
+[11-14-2019 00:56:19] 	 local variable 'response' referenced before assignment 
+[11-14-2019 01:01:37] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:02:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:02:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:03:12] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:03:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:04:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:04:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:05:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:05:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:06:21] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:06:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:07:24] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:07:56] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:08:27] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:08:59] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:09:30] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:10:02] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:10:34] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:11:06] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:11:38] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:12:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:12:42] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:13:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:13:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:14:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:14:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:15:22] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:15:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:16:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:16:57] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:17:29] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:18:01] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:18:32] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:19:04] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:19:36] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:20:07] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:20:39] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:21:11] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:21:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:22:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:22:47] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:23:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:23:51] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:24:23] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:24:54] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:25:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:25:58] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:26:29] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:27:01] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:27:32] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:28:04] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:28:36] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:29:08] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:29:39] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:30:11] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:30:42] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:31:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:31:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:32:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:32:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:33:21] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:33:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:34:24] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:34:56] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:35:27] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:35:59] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:36:31] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:37:02] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:37:34] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:38:06] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:38:38] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:39:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:39:41] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:40:12] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:40:44] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:41:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:41:47] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:42:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:42:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:43:22] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:43:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:44:25] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:44:57] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:45:29] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:46:00] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:46:32] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:47:04] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:47:35] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:48:07] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:48:39] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:49:10] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:49:42] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:50:13] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:50:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:51:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:51:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:52:21] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:52:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:53:25] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:53:56] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:54:28] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:54:59] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:55:31] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:56:03] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:56:35] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:57:06] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:57:38] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:58:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:58:41] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:59:13] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 01:59:45] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:00:16] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:00:48] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:01:20] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:01:52] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:02:23] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:02:55] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:03:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:03:58] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:04:30] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:05:02] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:05:34] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:06:07] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:06:39] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:07:10] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:07:42] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:08:14] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:08:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:09:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:09:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:10:22] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:10:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:11:25] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:11:56] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:12:28] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:13:01] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:13:32] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:14:05] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:14:37] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:15:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:15:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:16:12] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:16:44] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:17:16] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:17:47] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:18:19] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:18:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:19:22] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:19:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:20:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:20:57] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:21:30] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:22:01] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:22:33] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:23:04] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:23:36] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:24:08] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:24:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:25:11] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:25:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:26:14] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:26:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:27:17] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:27:49] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:28:20] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:28:52] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:29:23] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:29:55] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:30:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:30:58] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:31:29] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:32:01] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:32:33] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:33:05] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:33:37] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:34:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:34:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:35:12] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:35:44] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:36:16] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:36:47] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:37:19] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:37:51] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:38:22] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:38:54] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:39:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:39:58] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:40:31] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:41:02] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:41:35] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:42:06] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:42:38] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:43:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:43:41] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:44:12] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:44:44] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:45:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:45:47] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:46:19] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:46:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:47:23] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:47:54] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:48:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:48:57] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:49:30] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:50:02] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:50:34] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:51:05] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:51:37] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:52:08] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:52:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:53:11] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:53:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:54:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:54:47] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:55:19] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:55:51] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:56:23] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:56:54] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:57:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:57:57] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:58:29] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:59:01] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 02:59:32] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:00:05] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:00:37] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:01:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:01:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:02:12] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:02:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:03:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:03:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:04:19] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:04:51] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:05:23] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:05:54] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:06:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:06:57] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:07:29] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:08:00] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:08:32] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:09:04] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:09:36] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:10:07] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:10:39] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:11:10] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:11:42] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:12:13] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:12:45] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:13:16] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:13:48] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:14:19] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:14:51] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:15:22] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:15:54] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:16:25] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:16:57] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:17:29] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:18:00] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:18:33] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:19:05] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:19:36] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:20:08] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:20:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:21:12] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:21:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:22:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:22:47] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:23:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:23:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:24:21] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:24:54] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:25:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:25:58] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:26:29] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:27:01] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:27:32] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:28:04] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:28:36] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:29:07] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:29:39] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:30:11] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:30:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:31:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:31:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:32:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:32:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:33:21] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:33:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:34:25] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:34:56] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:35:28] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:35:59] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:36:31] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:37:02] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:37:34] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:38:06] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:38:37] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:39:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:39:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:40:12] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:40:44] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:41:16] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:41:47] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:42:19] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:42:51] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:43:22] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:43:54] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:44:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:44:57] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:45:29] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:46:00] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:46:32] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:47:04] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:47:36] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:48:08] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:48:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:49:11] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:49:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:50:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:50:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:51:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:51:49] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:52:21] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:52:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:53:24] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:53:56] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:54:27] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:54:59] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:55:30] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:56:02] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:56:33] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:57:05] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:57:37] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:58:08] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:58:39] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:59:11] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 03:59:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:00:14] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:00:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:01:17] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:01:49] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:02:21] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:02:52] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:03:24] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:03:56] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:04:28] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:05:00] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:05:31] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:06:03] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:06:35] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:07:07] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:07:39] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:08:10] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:08:42] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:09:14] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:09:45] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:10:17] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:10:48] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:11:20] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:11:52] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:12:23] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:12:55] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:13:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:13:58] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:14:30] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:15:03] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:15:35] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:16:06] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:16:38] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:17:10] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:17:41] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:18:13] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:18:45] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:19:17] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:19:48] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:20:20] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:20:52] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:21:23] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:21:55] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:22:27] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:22:58] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:23:30] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:24:02] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:24:33] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:25:06] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:25:38] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:26:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:26:41] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:27:13] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:27:44] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:28:16] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:28:47] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:29:19] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:29:51] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:30:22] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:30:54] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:31:27] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:31:58] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:32:30] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:33:01] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:33:34] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:34:05] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:34:37] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:35:08] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:35:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:36:11] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:36:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:37:14] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:37:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:38:17] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:38:49] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:39:21] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:39:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:40:24] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:40:56] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:41:29] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:42:00] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:42:32] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:43:03] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:43:38] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:44:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:44:42] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:45:13] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:45:45] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:46:16] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:46:48] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:47:20] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:47:51] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:48:23] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:48:55] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:49:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:49:58] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:50:30] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:51:01] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:51:33] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:52:04] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:52:36] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:53:08] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:53:39] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:54:11] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:54:42] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:55:14] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:55:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:56:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:56:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:57:22] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:57:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:58:25] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:58:56] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 04:59:29] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:00:00] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:00:32] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:01:05] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:01:37] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:02:10] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:02:41] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:03:13] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:03:44] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:04:16] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:04:48] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:05:19] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:05:51] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:06:23] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:06:54] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:07:26] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:07:58] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:08:30] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:09:02] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:09:34] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:10:05] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:10:37] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:11:09] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:11:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:12:12] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:12:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:13:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:13:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:14:19] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:14:51] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:15:23] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:15:55] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:16:27] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:16:58] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:17:30] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:18:02] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:18:33] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:19:05] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:19:37] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:20:08] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:20:40] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:21:12] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:21:43] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:22:15] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:22:46] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:23:18] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:23:50] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:24:21] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:24:53] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 05:25:25] 	 'NoneType' object has no attribute 'get' 
+[11-14-2019 09:08:04] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/supply/nike-air-force-1-low-travis-scott-cactus-jack-23/ 
+[11-14-2019 09:08:04] 	 local variable 'response' referenced before assignment 
+[11-14-2019 14:45:10] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/ 
+[11-14-2019 14:45:10] 	 local variable 'response' referenced before assignment 
+[11-14-2019 18:08:56] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/ 
+[11-14-2019 18:08:56] 	 local variable 'response' referenced before assignment 
+[11-15-2019 11:17:09] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/ 
+[11-15-2019 11:17:09] 	 local variable 'response' referenced before assignment 
+[11-16-2019 09:14:31] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/ 
+[11-16-2019 09:14:31] 	 local variable 'response' referenced before assignment 
+[11-18-2019 02:54:42] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:502 
+[11-18-2019 02:54:43] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-18-2019 02:54:43] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-18-2019 02:54:44] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-18-2019 02:54:44] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-18-2019 02:54:44] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-18-2019 02:56:45] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-18-2019 02:56:45] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-18-2019 02:56:48] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-18-2019 02:56:48] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-18-2019 02:56:48] 	 Get Url:https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/:502 
+[11-18-2019 02:56:49] 	 Get Url:https://rafflelinkz.com/dsm-new-york/nike-air-force-1-low-travis-scott-cactus-jack-28/:502 
+[11-18-2019 02:58:11] 	 Get Url:https://rafflelinkz.com/wish/nike-air-force-1-low-travis-scott-cactus-jack-36/:503 
+[11-18-2019 02:58:11] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:502 
+[11-18-2019 02:58:11] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-18-2019 02:58:14] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-18-2019 02:58:15] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-18-2019 02:58:15] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-18-2019 02:58:15] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-18-2019 02:58:15] 	 Get Url:https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/:502 
+[11-18-2019 02:58:16] 	 Get Url:https://rafflelinkz.com/dsm-new-york/nike-air-force-1-low-travis-scott-cactus-jack-28/:502 
+[11-18-2019 20:03:22] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/?unlock (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f44d6039080>: Failed to establish a new connection: [Errno 111] Connection refused',))): https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/ 
+[11-18-2019 20:03:22] 	 local variable 'response' referenced before assignment 
+[11-18-2019 20:51:14] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:502 
+[11-18-2019 20:51:14] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-18-2019 20:51:17] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-18-2019 20:51:18] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-18-2019 20:51:18] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-18-2019 20:51:18] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-18-2019 20:51:19] 	 Get Url:https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/:502 
+[11-18-2019 20:51:19] 	 Get Url:https://rafflelinkz.com/dsm-new-york/nike-air-force-1-low-travis-scott-cactus-jack-28/:502 
+[11-18-2019 20:51:56] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-18-2019 20:51:56] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-18-2019 20:52:00] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-18-2019 20:52:00] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-18-2019 20:52:00] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-18-2019 20:52:01] 	 Get Url:https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/:502 
+[11-18-2019 20:52:01] 	 Get Url:https://rafflelinkz.com/dsm-new-york/nike-air-force-1-low-travis-scott-cactus-jack-28/:502 
+[11-18-2019 20:55:26] 	 Get Url:https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/:502 
+[11-18-2019 20:55:27] 	 Get Url:https://rafflelinkz.com/wish/nike-air-force-1-low-travis-scott-cactus-jack-36/:502 
+[11-18-2019 20:55:30] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:502 
+[11-18-2019 20:55:31] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-18-2019 20:55:31] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-18-2019 20:55:32] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-18-2019 20:55:32] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-18-2019 20:55:32] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-18-2019 20:55:32] 	 Get Url:https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/:502 
+[11-18-2019 20:55:33] 	 Get Url:https://rafflelinkz.com/dsm-new-york/nike-air-force-1-low-travis-scott-cactus-jack-28/:502 
+[11-18-2019 20:56:04] 	 Get Url:https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/:502 
+[11-18-2019 20:56:05] 	 Get Url:https://rafflelinkz.com/wish/nike-air-force-1-low-travis-scott-cactus-jack-36/:502 
+[11-18-2019 20:56:09] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:502 
+[11-18-2019 20:56:09] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-18-2019 20:56:09] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-18-2019 20:56:09] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-18-2019 20:56:10] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-18-2019 20:56:11] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-18-2019 20:56:14] 	 Get Url:https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/:502 
+[11-18-2019 20:56:15] 	 Get Url:https://rafflelinkz.com/dsm-new-york/nike-air-force-1-low-travis-scott-cactus-jack-28/:502 
+[11-18-2019 20:58:25] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:503 
+[11-18-2019 20:58:25] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:503 
+[11-18-2019 20:58:25] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:503 
+[11-18-2019 20:58:26] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:503 
+[11-18-2019 20:58:26] 	 Get Url:https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/:503 
+[11-18-2019 20:58:26] 	 Get Url:https://rafflelinkz.com/dsm-new-york/nike-air-force-1-low-travis-scott-cactus-jack-28/:503 
+[11-18-2019 21:15:16] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/wish/nike-air-force-1-low-travis-scott-cactus-jack-36/ 
+[11-18-2019 21:15:16] 	 local variable 'response' referenced before assignment 
+[11-20-2019 07:26:05] 	 Get Url:https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/:500 
+[11-20-2019 07:26:06] 	 Get Url:https://rafflelinkz.com/wish/nike-air-force-1-low-travis-scott-cactus-jack-36/:500 
+[11-20-2019 07:26:06] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:500 
+[11-20-2019 07:26:06] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:500 
+[11-20-2019 07:26:06] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:500 
+[11-20-2019 07:26:06] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:500 
+[11-20-2019 07:26:07] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:500 
+[11-20-2019 07:26:07] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:500 
+[11-20-2019 07:26:07] 	 Get Url:https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/:500 
+[11-20-2019 07:26:07] 	 Get Url:https://rafflelinkz.com/dsm-new-york/nike-air-force-1-low-travis-scott-cactus-jack-28/:500 
+[11-20-2019 22:03:56] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/ 
+[11-20-2019 22:03:56] 	 local variable 'response' referenced before assignment 
+[11-21-2019 03:08:11] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/ 
+[11-21-2019 03:08:11] 	 local variable 'response' referenced before assignment 
+[11-21-2019 03:11:04] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/dsm-new-york/nike-air-force-1-low-travis-scott-cactus-jack-28/ 
+[11-21-2019 03:11:04] 	 local variable 'response' referenced before assignment 
+[11-21-2019 05:29:33] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/ 
+[11-21-2019 05:29:33] 	 local variable 'response' referenced before assignment 
+[11-21-2019 07:40:35] 	 Get Url:https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/:500 
+[11-21-2019 20:33:43] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/ 
+[11-21-2019 20:33:43] 	 local variable 'response' referenced before assignment 
+[11-22-2019 18:14:00] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/ 
+[11-22-2019 18:14:00] 	 local variable 'response' referenced before assignment 
+[11-22-2019 22:16:02] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/ 
+[11-22-2019 22:16:02] 	 local variable 'response' referenced before assignment 
+[11-22-2019 22:16:47] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/ 
+[11-22-2019 22:16:47] 	 local variable 'response' referenced before assignment 
+[11-22-2019 23:00:56] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:503 
+[11-22-2019 23:01:45] 	 Get Url:https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/:503 
+[11-22-2019 23:01:52] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-22-2019 23:01:52] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-22-2019 23:01:56] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-22-2019 23:01:56] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-22-2019 23:01:56] 	 Get Url:https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/:502 
+[11-22-2019 23:03:14] 	 Get Url:https://rafflelinkz.com/wish/nike-air-force-1-low-travis-scott-cactus-jack-36/:503 
+[11-22-2019 23:03:14] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:503 
+[11-22-2019 23:03:15] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:503 
+[11-22-2019 23:03:15] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:503 
+[11-22-2019 23:03:15] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:503 
+[11-22-2019 23:03:15] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:503 
+[11-22-2019 23:03:16] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:503 
+[11-22-2019 23:03:16] 	 Get Url:https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/:503 
+[11-23-2019 01:17:19] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-23-2019 01:17:20] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-23-2019 01:17:22] 	 Get Url:https://rafflelinkz.com/dsm-los-angeles/nike-air-force-1-low-travis-scott-cactus-jack-29/:502 
+[11-23-2019 01:20:33] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:525 
+[11-23-2019 01:20:34] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:525 
+[11-23-2019 01:20:35] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:521 
+[11-23-2019 04:12:35] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-23-2019 04:12:36] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-23-2019 04:13:13] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-23-2019 04:13:13] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-23-2019 04:13:16] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-23-2019 04:13:17] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-23-2019 04:13:17] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-23-2019 04:13:55] 	 Get Url:https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/:502 
+[11-23-2019 04:13:55] 	 Get Url:https://rafflelinkz.com/wish/nike-air-force-1-low-travis-scott-cactus-jack-36/:502 
+[11-23-2019 04:13:58] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:502 
+[11-23-2019 04:13:59] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-23-2019 04:13:59] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-23-2019 04:13:59] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-23-2019 04:13:59] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-23-2019 04:14:00] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-23-2019 04:26:52] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-23-2019 04:26:52] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-23-2019 04:26:55] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-23-2019 04:26:56] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-23-2019 04:26:56] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-23-2019 04:49:38] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-23-2019 04:49:38] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-23-2019 04:49:41] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-23-2019 04:49:42] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-23-2019 04:49:42] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-23-2019 04:51:04] 	 Get Url:https://rafflelinkz.com/jeffrey/yeezy-boost-350-v2-black-82/:502 
+[11-23-2019 04:51:04] 	 Get Url:https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/:502 
+[11-23-2019 04:51:04] 	 Get Url:https://rafflelinkz.com/wish/nike-air-force-1-low-travis-scott-cactus-jack-36/:502 
+[11-23-2019 04:51:05] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:502 
+[11-23-2019 04:51:05] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-23-2019 04:51:05] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-23-2019 04:51:43] 	 Get Url:https://rafflelinkz.com/jeffrey/yeezy-boost-350-v2-black-82/:502 
+[11-23-2019 04:51:44] 	 Get Url:https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/:502 
+[11-23-2019 04:51:47] 	 Get Url:https://rafflelinkz.com/wish/nike-air-force-1-low-travis-scott-cactus-jack-36/:502 
+[11-23-2019 04:51:47] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:502 
+[11-23-2019 04:51:47] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-23-2019 04:51:48] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-23-2019 04:51:48] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-23-2019 04:51:48] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-23-2019 04:51:48] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-23-2019 04:52:41] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-23-2019 04:53:13] 	 Get Url:https://rafflelinkz.com/extra-butter/yeezy-boost-350-v2-black-83/:502 
+[11-23-2019 04:53:13] 	 Get Url:https://rafflelinkz.com/jeffrey/yeezy-boost-350-v2-black-82/:502 
+[11-23-2019 04:53:16] 	 Get Url:https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/:502 
+[11-23-2019 04:53:16] 	 Get Url:https://rafflelinkz.com/wish/nike-air-force-1-low-travis-scott-cactus-jack-36/:502 
+[11-23-2019 04:53:17] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:502 
+[11-23-2019 04:53:17] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-23-2019 04:53:17] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-23-2019 04:53:17] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-23-2019 04:53:17] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-23-2019 04:53:18] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-23-2019 04:53:54] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:502 
+[11-23-2019 04:53:55] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-23-2019 04:53:57] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-23-2019 04:53:58] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-23-2019 04:53:58] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-23-2019 04:53:59] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-23-2019 04:54:31] 	 Get Url:https://rafflelinkz.com/extra-butter/yeezy-boost-350-v2-black-83/:502 
+[11-23-2019 04:54:32] 	 Get Url:https://rafflelinkz.com/jeffrey/yeezy-boost-350-v2-black-82/:502 
+[11-23-2019 04:54:35] 	 Get Url:https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/:502 
+[11-23-2019 04:54:35] 	 Get Url:https://rafflelinkz.com/wish/nike-air-force-1-low-travis-scott-cactus-jack-36/:502 
+[11-23-2019 04:54:35] 	 Get Url:https://rafflelinkz.com/ubiq/nike-air-force-1-low-travis-scott-cactus-jack-35/:502 
+[11-23-2019 04:54:35] 	 Get Url:https://rafflelinkz.com/bodega/nike-air-force-1-low-travis-scott-cactus-jack-34/:502 
+[11-23-2019 04:54:36] 	 Get Url:https://rafflelinkz.com/opium/nike-air-force-1-low-travis-scott-cactus-jack-33/:502 
+[11-23-2019 04:54:36] 	 Get Url:https://rafflelinkz.com/concepts/nike-air-force-1-low-travis-scott-cactus-jack-32/:502 
+[11-23-2019 04:54:37] 	 Get Url:https://rafflelinkz.com/extra-butter/nike-air-force-1-low-travis-scott-cactus-jack-31/:502 
+[11-23-2019 04:54:37] 	 Get Url:https://rafflelinkz.com/darkside-initiative/nike-air-force-1-low-travis-scott-cactus-jack-30/:502 
+[11-25-2019 18:17:49] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/extra-butter/yeezy-boost-350-v2-black-83/ 
+[11-25-2019 18:17:49] 	 local variable 'response' referenced before assignment 
+[11-26-2019 14:04:49] 	 Get Url:https://rafflelinkz.com/extra-butter/yeezy-boost-350-v2-black-83/:502 
+[11-26-2019 14:04:49] 	 Get Url:https://rafflelinkz.com/jeffrey/yeezy-boost-350-v2-black-82/:502 
+[11-26-2019 14:04:50] 	 Get Url:https://rafflelinkz.com/hbx/nike-air-force-1-low-travis-scott-cactus-jack-37/:502 
+[11-28-2019 05:25:37] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/baskets/yeezy-boost-350-v2-black-112/ 
+[11-28-2019 05:25:37] 	 local variable 'response' referenced before assignment 
+[11-29-2019 01:07:29] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /four/yeezy-boost-350-v2-black-117/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f44d4a71518>, 'Connection to 196.16.82.48 timed out. (connect timeout=5)')): https://rafflelinkz.com/four/yeezy-boost-350-v2-black-117/ 
+[11-29-2019 01:07:29] 	 local variable 'response' referenced before assignment 
+[11-29-2019 02:21:30] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /quaranta/yeezy-boost-350-v2-black-114/?unlock (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',))): https://rafflelinkz.com/quaranta/yeezy-boost-350-v2-black-114/ 
+[11-29-2019 02:21:30] 	 local variable 'response' referenced before assignment 
+[11-30-2019 17:59:35] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Max retries exceeded with url: /quaranta/yeezy-boost-350-v2-black-114/?unlock (Caused by ConnectTimeoutError(<urllib3.connection.VerifiedHTTPSConnection object at 0x7f44d65f65f8>, 'Connection to 196.16.91.68 timed out. (connect timeout=5)')): https://rafflelinkz.com/quaranta/yeezy-boost-350-v2-black-114/ 
+[11-30-2019 17:59:35] 	 local variable 'response' referenced before assignment 
+[12-02-2019 05:09:46] 	 Get Url:https://rafflelinkz.com/one-block-down/yeezy-boost-350-v2-black-118/:520 
+[12-02-2019 05:09:47] 	 Get Url:https://rafflelinkz.com/four/yeezy-boost-350-v2-black-117/:521 
+[12-02-2019 05:09:48] 	 Get Url:https://rafflelinkz.com/pam-pam/yeezy-boost-350-v2-black-116/:521 
+[12-02-2019 05:09:48] 	 Get Url:https://rafflelinkz.com/hibbett/yeezy-boost-350-v2-black-115/:521 
+[12-02-2019 05:09:48] 	 Get Url:https://rafflelinkz.com/quaranta/yeezy-boost-350-v2-black-114/:521 
+[12-02-2019 05:09:48] 	 Get Url:https://rafflelinkz.com/smets/yeezy-boost-350-v2-black-113/:521 
+[12-02-2019 05:09:49] 	 Get Url:https://rafflelinkz.com/baskets/yeezy-boost-350-v2-black-112/:521 
+[12-02-2019 05:09:49] 	 Get Url:https://rafflelinkz.com/footshop/yeezy-boost-350-v2-black-111/:521 
+[12-02-2019 05:09:49] 	 Get Url:https://rafflelinkz.com/end/yeezy-boost-350-v2-black-110/:521 
+[12-02-2019 05:09:49] 	 Get Url:https://rafflelinkz.com/naked/yeezy-boost-350-v2-black-109/:521 
+[12-02-2019 05:12:12] 	 Get Url:https://rafflelinkz.com/one-block-down/yeezy-boost-350-v2-black-118/:521 
+[12-02-2019 05:12:13] 	 Get Url:https://rafflelinkz.com/four/yeezy-boost-350-v2-black-117/:521 
+[12-02-2019 05:12:13] 	 Get Url:https://rafflelinkz.com/pam-pam/yeezy-boost-350-v2-black-116/:521 
+[12-02-2019 05:12:13] 	 Get Url:https://rafflelinkz.com/hibbett/yeezy-boost-350-v2-black-115/:521 
+[12-02-2019 05:12:14] 	 Get Url:https://rafflelinkz.com/quaranta/yeezy-boost-350-v2-black-114/:521 
+[12-02-2019 05:12:20] 	 Get Url:https://rafflelinkz.com/smets/yeezy-boost-350-v2-black-113/:502 
+[12-02-2019 05:12:20] 	 Get Url:https://rafflelinkz.com/baskets/yeezy-boost-350-v2-black-112/:502 
+[12-02-2019 05:12:20] 	 Get Url:https://rafflelinkz.com/footshop/yeezy-boost-350-v2-black-111/:502 
+[12-02-2019 05:12:20] 	 Get Url:https://rafflelinkz.com/end/yeezy-boost-350-v2-black-110/:502 
+[12-02-2019 05:12:31] 	 HTTPSConnectionPool(host='rafflelinkz.com', port=443): Read timed out. (read timeout=5): https://rafflelinkz.com/naked/yeezy-boost-350-v2-black-109/ 
+[12-02-2019 05:12:31] 	 local variable 'response' referenced before assignment 
+[12-02-2019 06:10:33] 	 Get Url:https://rafflelinkz.com/one-block-down/yeezy-boost-350-v2-black-118/:520 
+[12-02-2019 06:10:34] 	 Get Url:https://rafflelinkz.com/four/yeezy-boost-350-v2-black-117/:521 
+[12-02-2019 06:10:34] 	 Get Url:https://rafflelinkz.com/pam-pam/yeezy-boost-350-v2-black-116/:521 
+[12-02-2019 06:10:34] 	 Get Url:https://rafflelinkz.com/hibbett/yeezy-boost-350-v2-black-115/:521 
+[12-02-2019 06:10:35] 	 Get Url:https://rafflelinkz.com/quaranta/yeezy-boost-350-v2-black-114/:521 
+[12-02-2019 06:10:35] 	 Get Url:https://rafflelinkz.com/smets/yeezy-boost-350-v2-black-113/:521 
+[12-02-2019 06:10:35] 	 Get Url:https://rafflelinkz.com/baskets/yeezy-boost-350-v2-black-112/:521 
+[12-02-2019 06:10:36] 	 Get Url:https://rafflelinkz.com/footshop/yeezy-boost-350-v2-black-111/:521 
+[12-02-2019 06:10:36] 	 Get Url:https://rafflelinkz.com/end/yeezy-boost-350-v2-black-110/:521 
+[12-02-2019 06:10:36] 	 Get Url:https://rafflelinkz.com/naked/yeezy-boost-350-v2-black-109/:521 
+[12-02-2019 06:24:16] 	 Get Url:https://rafflelinkz.com/one-block-down/yeezy-boost-350-v2-black-118/:520 
+[12-02-2019 06:24:17] 	 Get Url:https://rafflelinkz.com/four/yeezy-boost-350-v2-black-117/:521 
+[12-02-2019 06:24:17] 	 Get Url:https://rafflelinkz.com/pam-pam/yeezy-boost-350-v2-black-116/:521 
+[12-02-2019 06:24:17] 	 Get Url:https://rafflelinkz.com/hibbett/yeezy-boost-350-v2-black-115/:521 
+[12-02-2019 06:24:17] 	 Get Url:https://rafflelinkz.com/quaranta/yeezy-boost-350-v2-black-114/:521 
+[12-02-2019 06:24:18] 	 Get Url:https://rafflelinkz.com/smets/yeezy-boost-350-v2-black-113/:521 
+[12-02-2019 06:24:19] 	 Get Url:https://rafflelinkz.com/baskets/yeezy-boost-350-v2-black-112/:521 
+[12-02-2019 06:24:19] 	 Get Url:https://rafflelinkz.com/footshop/yeezy-boost-350-v2-black-111/:521 
+[12-02-2019 06:24:19] 	 Get Url:https://rafflelinkz.com/end/yeezy-boost-350-v2-black-110/:521 
+[12-02-2019 06:24:19] 	 Get Url:https://rafflelinkz.com/naked/yeezy-boost-350-v2-black-109/:521 

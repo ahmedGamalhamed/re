@@ -1,0 +1,121 @@
+[05-11-2020 07:38:23] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-mid/15986872/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 07:38:23] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-jordan-mars-270/15976389/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 07:38:24] 	 URL:https://www.jdsports.co.uk/product/red-jordan-dna-vestshorts-set-children/15990492/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 07:38:24] 	 URL:https://www.jdsports.co.uk/product/white-nike-jordan-max-200-mens-shoe/15986919/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 07:38:24] 	 URL:https://www.jdsports.co.uk/product/white-jordan-maxin-200/15976992/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 07:38:25] 	 URL:https://www.jdsports.co.uk/product/white-jordan-sticker-t-shirtshorts-set-children/15990504/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 07:38:25] 	 URL:https://www.jdsports.co.uk/product/white-jordan-max-aura-junior/15986409/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 07:38:25] 	 URL:https://www.jdsports.co.uk/product/white-jordan-max-aura-junior/15986251/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 07:38:26] 	 URL:https://www.jdsports.co.uk/product/white-nike-jordan-max-200-mens-shoe/15986244/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 07:38:26] 	 URL:https://www.jdsports.co.uk/product/white-nike-jordan-air-max-200-older-kids-shoe/15986890/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 07:38:26] 	 URL:https://www.jdsports.co.uk/product/black-jordan-why-not-zer03/15981696/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 07:38:27] 	 URL:https://www.jdsports.co.uk/product/white-jordan-maxin-200-junior/15986091/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 15:39:00] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-mid/15986872/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 15:39:01] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-jordan-mars-270/15976389/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 15:39:01] 	 URL:https://www.jdsports.co.uk/product/red-jordan-dna-vestshorts-set-children/15990492/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 15:39:02] 	 URL:https://www.jdsports.co.uk/product/white-nike-jordan-max-200-mens-shoe/15986919/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 15:39:03] 	 URL:https://www.jdsports.co.uk/product/white-jordan-maxin-200/15976992/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 15:39:03] 	 URL:https://www.jdsports.co.uk/product/white-jordan-max-aura-junior/15986409/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 15:39:04] 	 URL:https://www.jdsports.co.uk/product/white-jordan-max-aura-junior/15986251/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 15:39:05] 	 URL:https://www.jdsports.co.uk/product/white-nike-jordan-max-200-mens-shoe/15986244/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 15:39:05] 	 URL:https://www.jdsports.co.uk/product/black-jordan-why-not-zer03/15981696/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 15:39:06] 	 URL:https://www.jdsports.co.uk/product/white-nike-jordan-air-max-200-older-kids-shoe/15986890/ 'NoneType' object has no attribute 'find_all' 
+[05-11-2020 15:39:07] 	 URL:https://www.jdsports.co.uk/product/white-jordan-maxin-200-junior/15986091/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:23] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-mid/16006118/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:24] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-mid-junior/15986906/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:24] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-low-junior/15976976/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:24] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-mid-junior/16010852/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:24] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-low-junior/15962008/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:24] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-jordan-aura-children/15991595/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:25] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-mid-junior/16011924/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:25] 	 URL:https://www.jdsports.co.uk/product/white-nike-jordan-1-mid-baby-and-toddler-shoe/15976985/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:25] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-low-junior/16010625/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:25] 	 URL:https://www.jdsports.co.uk/product/white-jordan-jumpman-snapback-cap/15863720/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:26] 	 URL:https://www.jdsports.co.uk/product/white-jordan-3-pack-dri-fit-no-show-socks/213728/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:26] 	 URL:https://www.jdsports.co.uk/product/white-jordan-jumpman-classic-99-metal-cap/15972701/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:26] 	 URL:https://www.jdsports.co.uk/product/white-jordan-jumpman-snapback-cap/15863567/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:26] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-low-womens/16010426/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:27] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-low-children/15985000/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:27] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-mid-infant/15976986/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:27] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-jumpman-hip-pack/15979287/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:27] 	 URL:https://www.jdsports.co.uk/product/white-jordan-legacy-91-jumpman-air-cap/15958751/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:28] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-mid-womens/16010786/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:28] 	 URL:https://www.jdsports.co.uk/product/white-jordan-legacy-91-jumpman-air-cap/15973486/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 04:46:28] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-hi-og-womens/16007277/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:10] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-mid/16006118/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:10] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-mid-junior/15986906/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:10] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-low-junior/15976976/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:10] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-mid-junior/16010852/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:11] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-low-junior/15962008/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:11] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-jordan-aura-children/15991595/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:11] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-mid-junior/16011924/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:11] 	 URL:https://www.jdsports.co.uk/product/white-nike-jordan-1-mid-baby-and-toddler-shoe/15976985/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:11] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-low-junior/16010625/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:12] 	 URL:https://www.jdsports.co.uk/product/white-jordan-jumpman-snapback-cap/15863720/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:12] 	 URL:https://www.jdsports.co.uk/product/white-jordan-3-pack-dri-fit-no-show-socks/213728/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:12] 	 URL:https://www.jdsports.co.uk/product/white-jordan-jumpman-classic-99-metal-cap/15972701/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:12] 	 URL:https://www.jdsports.co.uk/product/white-jordan-jumpman-snapback-cap/15863567/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:12] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-low-womens/16010426/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:13] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-low-children/15985000/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:13] 	 URL:https://www.jdsports.co.uk/product/white-jordan-air-1-mid-infant/15976986/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:13] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-jumpman-hip-pack/15979287/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:13] 	 URL:https://www.jdsports.co.uk/product/white-jordan-legacy-91-jumpman-air-cap/15958751/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:13] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-mid-womens/16010786/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:14] 	 URL:https://www.jdsports.co.uk/product/white-jordan-legacy-91-jumpman-air-cap/15973486/ 'NoneType' object has no attribute 'find_all' 
+[07-23-2020 06:48:14] 	 URL:https://www.jdsports.co.uk/product/black-jordan-air-1-hi-og-womens/16007277/ 'NoneType' object has no attribute 'find_all' 
+[01-14-2021 20:01:19] 	 URL:https://www.jdsports.co.uk/product/grey-nike-running-trail-vest/16071641/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:19] 	 URL:https://www.jdsports.co.uk/product/black-nike-accelerate-running-gloves/16071640/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:22] 	 URL:https://www.jdsports.co.uk/product/white-mckenzie-mini-essential-3-pack-t-shirts-children/16071469/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:22] 	 URL:https://www.jdsports.co.uk/product/green-nike-core-t-shirt/16071562/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:23] 	 URL:https://www.jdsports.co.uk/product/white-jordan-jumpman-crew-t-shirt/16068186/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:25] 	 URL:https://www.jdsports.co.uk/product/white-mckenzie-micro-essential-3-pack-t-shirt-infant/16071465/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:25] 	 URL:https://www.jdsports.co.uk/product/black-nike-miler-long-sleeve-t-shirt/16071484/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:25] 	 URL:https://www.jdsports.co.uk/product/blue-mckenzie-teo-fleece-crew-sweatshirt/16071453/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:26] 	 URL:https://www.jdsports.co.uk/product/grey-mckenzie-essential-long-sleeve-t-shirt/16071194/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:26] 	 URL:https://www.jdsports.co.uk/product/grey-nicce-mercury-fleece-tracksuit/16071481/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:27] 	 URL:https://www.jdsports.co.uk/product/black-duffer-octon-t-shirt/16071192/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:27] 	 URL:https://www.jdsports.co.uk/product/black-no-rights-reserved-2pac-smoke-t-shirt/16071475/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:27] 	 URL:https://www.jdsports.co.uk/product/blue-mckenzie-patrick-polo-shirt/16071010/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:29] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-max-90/16070030/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:29] 	 URL:https://www.jdsports.co.uk/product/white-mckenzie-moxley-t-shirt/16067079/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:30] 	 URL:https://www.jdsports.co.uk/product/grey-adidas-originals-ozweego-celox/16049942/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:30] 	 URL:https://www.jdsports.co.uk/product/pink-nike-plus-size-training-bra/16045174/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:30] 	 URL:https://www.jdsports.co.uk/product/white-adidas-originals-ozweego-womens/16071374/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:31] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-low/16069140/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:31] 	 URL:https://www.jdsports.co.uk/product/white-adidas-celtic-fc-track-jacket/16069925/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:31] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-07/15958093/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:32] 	 URL:https://www.jdsports.co.uk/product/grey-fila-memory-approach-womens/16069836/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:32] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-react/15973936/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:32] 	 URL:https://www.jdsports.co.uk/product/black-fila-memory-approach-womens/16069824/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:32] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-womens/16064749/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:33] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-pixel-womens/16068526/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:33] 	 URL:https://www.jdsports.co.uk/product/black-duffer-octon-track-top/16069752/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:33] 	 URL:https://www.jdsports.co.uk/product/brown-nike-air-force-1-pixel-womens/16046119/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:34] 	 URL:https://www.jdsports.co.uk/product/black-nike-air-force-1-shadow-womens/16035071/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:34] 	 URL:https://www.jdsports.co.uk/product/black-supply-and-demand-protection-hoodie/16069717/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:35] 	 URL:https://www.jdsports.co.uk/product/black-nike-air-force-1-low-junior/014125/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:35] 	 URL:https://www.jdsports.co.uk/product/grey-puma-core-large-logo-hoodie/16069552/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:35] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-infant/16047271/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:35] 	 URL:https://www.jdsports.co.uk/product/nike-air-force-1-low-infant/1267709/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:36] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-07-lv8-children/15968750/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:36] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-07-lv8/16070125/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:37] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-07-lv8/16068321/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:37] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-07-lv8/16068235/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:38] 	 URL:https://www.jdsports.co.uk/product/grey-puma-core-logo-crew-sweatshirt/16069551/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:38] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-low/16070044/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:38] 	 URL:https://www.jdsports.co.uk/product/grey-puma-core-fleece-joggers/16069547/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:39] 	 URL:https://www.jdsports.co.uk/product/grey-nike-swoosh-full-zip-tracksuit-children/16069534/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:40] 	 URL:https://www.jdsports.co.uk/product/black-gym-king-avalanche-jacket/16069504/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:41] 	 URL:https://www.jdsports.co.uk/product/red-fred-perry-logo-rib-pique-t-shirt/16069493/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:41] 	 URL:https://www.jdsports.co.uk/product/green-nike-academy-14-zip-drill-top-junior/16069374/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:41] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-crib-infant/16033390/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:42] 	 URL:https://www.jdsports.co.uk/product/brown-nike-air-force-1-07-essential-womens/16068529/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:42] 	 URL:https://www.jdsports.co.uk/product/brown-nike-air-force-1-07/16069669/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:43] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-lv8-ksa-infant/16033394/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:43] 	 URL:https://www.jdsports.co.uk/product/black-nike-air-force-1-07/16046113/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:44] 	 URL:https://www.jdsports.co.uk/product/grey-nike-air-force-1-shadow-womens/16069560/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:44] 	 URL:https://www.jdsports.co.uk/product/black-fila-tron-tape-overhead-hoodie/16069234/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:44] 	 URL:https://www.jdsports.co.uk/product/nike-air-force-1-low/1267679/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:44] 	 URL:https://www.jdsports.co.uk/product/blue-ellesse-noreo-overhead-hoodie/16069223/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:45] 	 URL:https://www.jdsports.co.uk/product/white-nike-air-force-1-low-junior/1267688/ argument of type 'NoneType' is not iterable 
+[01-14-2021 20:01:45] 	 URL:https://www.jdsports.co.uk/product/nike-air-force-1-crib-infant/036127/ argument of type 'NoneType' is not iterable 

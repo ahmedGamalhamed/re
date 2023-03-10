@@ -1,0 +1,30 @@
+{
+    "monitoring_cycle": 10,
+    "base_url" : "https://www.sevenstore.com/",
+    "all_in_ones_webhooksurl" : "https://discordapp.com/api/webhooks/609844551452065802/BvfjwsbrfRxMmNmNc7D8xYEmkXxaOq6BRkRaUrLsnZrVqMJZ9huG2IuRmldSUgaYqINu",
+    "mornitor_urls" : [
+        {
+            "type" : "new",
+            "search_urls" : [
+                "https://www.sevenstore.com/latest/"
+            ],
+            "webhooks_url" : "https://discordapp.com/api/webhooks/622148068032249866/izwE_HW2H41xiKKntUb1O_G6LxTln4x4KTxCLHEgeVdo6jqY236beas-3pJ4MeV7HyY8"
+        },
+        {
+            "type" : "sale",
+            "search_urls" : [
+                "https://www.sevenstore.com/sale/"
+            ],
+            "webhooks_url" : "https://discordapp.com/api/webhooks/622147883138809866/ng7PhijI44cFhxqHOgsQxqgak0I2SwngZa-lIxeyy28d4dTzABT5eyuGx9Q_oq6t0k3P"
+        },
+        {
+            "type": "keyword",
+            "search_keywords" : [],
+            "keyword_search_url" : "https://www.sevenstore.com/search/",
+            "webhooks_url" : "https://discordapp.com/api/webhooks/622147956233076736/x3uFceWgN2G9T0r5IbkSelWmy199Px1lr9nccKA-p7rzpAYzGvKTu84-ScVMKCtPsN0Q"
+        }
+    ],
+    "dbname" : "products",
+    "mongodbserver": "mongodb://localhost:27017/",
+    "mongodatabase" : "DiscordMonitor"
+}

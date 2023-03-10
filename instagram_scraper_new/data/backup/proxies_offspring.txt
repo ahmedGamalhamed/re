@@ -1,0 +1,1 @@
+gb.smartproxy.com:30000

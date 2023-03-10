@@ -1,0 +1,30 @@
+{
+    "monitoring_cycle": 10,
+    "base_url" : "https://www.nike.com",
+    "all_in_ones_webhooksurl" : "https://discordapp.com/api/webhooks/622116583770423306/CsXCXUoIjO9CDqxvQgiF_adAtf1OOOvmR2bKnCl5r9OXaT-rQhMkMx_iSYFaye7VqwKI",
+    "mornitor_urls" : [
+        {
+            "type" : "new",
+            "search_urls" : [
+                "https://www.nike.com/gb/w/new-shoes-3n82yzy7ok?sort=newest"
+            ],
+            "webhooks_url" : "https://discordapp.com/api/webhooks/622116583770423306/CsXCXUoIjO9CDqxvQgiF_adAtf1OOOvmR2bKnCl5r9OXaT-rQhMkMx_iSYFaye7VqwKI"
+        },
+        {
+            "type" : "sale",
+            "search_urls" : [
+                "https://www.nike.com/gb/w/sale-shoes-3yaepzy7ok?q=sale&sort=newest"
+            ],
+            "webhooks_url" : "https://discordapp.com/api/webhooks/622116583770423306/CsXCXUoIjO9CDqxvQgiF_adAtf1OOOvmR2bKnCl5r9OXaT-rQhMkMx_iSYFaye7VqwKI"
+        },
+        {
+            "type": "keyword",
+            "search_keywords" : [],
+            "keyword_search_url" : "https://www.nike.com/gb/w",
+            "webhooks_url" : "https://discordapp.com/api/webhooks/622116583770423306/CsXCXUoIjO9CDqxvQgiF_adAtf1OOOvmR2bKnCl5r9OXaT-rQhMkMx_iSYFaye7VqwKI"
+        }
+    ],
+    "dbname" : "products",
+    "mongodbserver": "mongodb://localhost:27017/",
+    "mongodatabase" : "DiscordMonitor"
+}

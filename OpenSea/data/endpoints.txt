@@ -1,0 +1,7 @@
+https://opensea.io/collection/sad-frogs-district?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW
+https://opensea.io/assets/dope-shibas?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Hat&search[stringTraits][0][values][0]=Dead%20Cool%20Cat%20Mask&search[toggles][0]=BUY_NOW
+https://opensea.io/assets/dope-shibas?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Hat&search[stringTraits][0][values][0]=Pepe&search[toggles][0]=BUY_NOW
+https://opensea.io/collection/dope-shibas?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW
+
+
+

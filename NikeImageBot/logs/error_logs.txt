@@ -1,0 +1,12 @@
+[10-25-2019 15:13:05] 	 could not convert string to float: '$280' 
+[03-13-2020 09:00:48] 	 Status code:404 : https://www.nike.com/gb/t/air-force-1-07-lux-shoe-F2B8P6/898889-103 
+[06-06-2020 17:00:16] 	 'NoneType' object has no attribute 'string' 
+[06-06-2020 17:00:40] 	 'NoneType' object has no attribute 'string' 
+[06-07-2020 18:27:51] 	 'NoneType' object has no attribute 'string' 
+[06-07-2020 18:28:25] 	 'NoneType' object has no attribute 'string' 
+[06-07-2020 20:24:08] 	 'NoneType' object has no attribute 'string' 
+[06-07-2020 20:27:06] 	 'NoneType' object has no attribute 'string' 
+[06-07-2020 20:31:02] 	 'NoneType' object has no attribute 'string' 
+[07-02-2020 23:12:36] 	 'NoneType' object has no attribute 'string' 
+[07-02-2020 23:14:29] 	 'NoneType' object has no attribute 'string' 
+[01-19-2021 20:16:05] 	 Status code:404 : https://www.nike.com/gb/t/air-vapormax-360-shoe-hKspcn/CK9671-100 
